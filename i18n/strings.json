@@ -1,0 +1,4311 @@
+[
+ {
+  "tr": "\n- Türkçe yaz.",
+  "src": [
+   "engine/src/analyst.ts:55"
+  ]
+ },
+ {
+  "tr": " (${} brüt)",
+  "src": [
+   "engine/src/connectors/revenuecat.ts:72"
+  ]
+ },
+ {
+  "tr": " (tahmini)",
+  "src": [
+   "MetricDetail.swift:141"
+  ]
+ },
+ {
+  "tr": " ({} kötü)",
+  "src": [
+   "Views.swift:492"
+  ]
+ },
+ {
+  "tr": " : name(app)) · günlük",
+  "src": [
+   "MetricDetail.swift:217"
+  ]
+ },
+ {
+  "tr": " Sayılar {}.",
+  "src": [
+   "AcquisitionView.swift:117"
+  ]
+ },
+ {
+  "tr": " Son veri: {}.",
+  "src": [
+   "AcquisitionView.swift:117"
+  ]
+ },
+ {
+  "tr": " · 7 günden az, sayılar oynak",
+  "src": [
+   "Meta.swift:272"
+  ]
+ },
+ {
+  "tr": " · dün {}",
+  "src": [
+   "Views.swift:487"
+  ]
+ },
+ {
+  "tr": " · günlük bütçe {}",
+  "src": [
+   "Meta.swift:246"
+  ]
+ },
+ {
+  "tr": " önce",
+  "src": [
+   "Detail.swift:120",
+   "Views.swift:918"
+  ]
+ },
+ {
+  "tr": "(adsız)",
+  "src": [
+   "Detail.swift:272",
+   "Detail.swift:293"
+  ]
+ },
+ {
+  "tr": ") · bugün {}, {} kurulum",
+  "src": [
+   "Meta.swift:324"
+  ]
+ },
+ {
+  "tr": ")). Başka bir RevenueCat projen varsa onun anahtarını da ekleyebilirsin.",
+  "src": [
+   "Setup.swift:327"
+  ]
+ },
+ {
+  "tr": ", en sert kırılma {} ({} → {})",
+  "src": [
+   "engine/src/diagnose.ts:173"
+  ]
+ },
+ {
+  "tr": "30 gün",
+  "src": [
+   "AcquisitionView.swift:77",
+   "Meta.swift:156",
+   "SiteSourcesView.swift:48"
+  ]
+ },
+ {
+  "tr": "429 hız sınırı",
+  "src": [
+   "engine/src/connectors/rccharts.ts:43"
+  ]
+ },
+ {
+  "tr": "60 gün",
+  "src": [
+   "TodayHistory.swift:106"
+  ]
+ },
+ {
+  "tr": "7 gün",
+  "src": [
+   "AcquisitionView.swift:77",
+   "Meta.swift:156",
+   "SiteSourcesView.swift:48"
+  ]
+ },
+ {
+  "tr": "7g ort.",
+  "src": [
+   "Views.swift:151"
+  ]
+ },
+ {
+  "tr": "7g {} · {} kurulum",
+  "src": [
+   "Meta.swift:252"
+  ]
+ },
+ {
+  "tr": "A/B test gruplarına ayrı ayrı bak: hangi grup daha çok net gelir getiriyor, onu herkese aç.",
+  "src": [
+   "engine/src/diagnose.ts:236"
+  ]
+ },
+ {
+  "tr": "AI Studio'yu aç",
+  "src": [
+   "Setup.swift:920"
+  ]
+ },
+ {
+  "tr": "AI notunu açtıysan: ürünlerinin rakamları ve yorum metinleri, seçtiğin AI şirketine (Anthropic, OpenAI ya da Google) senin hesabınla gider. Yerel model (Ollama) seçtiysen bu Mac'ten çıkmaz.",
+  "src": [
+   "About.swift:69"
+  ]
+ },
+ {
+  "tr": "AI'ı kaldır",
+  "src": [
+   "Setup.swift:832"
+  ]
+ },
+ {
+  "tr": "API anahtarı",
+  "src": [
+   "Setup.swift:823"
+  ]
+ },
+ {
+  "tr": "API anahtarı gerekli.",
+  "src": [
+   "engine/local/setup.ts:287"
+  ]
+ },
+ {
+  "tr": "Abone / gün",
+  "src": [
+   "Meta.swift:281"
+  ]
+ },
+ {
+  "tr": "Abone başı",
+  "src": [
+   "Meta.swift:176"
+  ]
+ },
+ {
+  "tr": "Abone ve yenileme kırılımına bak; iptal edenlere geri kazanım teklifi kur.",
+  "src": [
+   "engine/src/diagnose.ts:240"
+  ]
+ },
+ {
+  "tr": "Abonelik/gelir verisi yok",
+  "src": [
+   "engine/src/diagnose.ts:278"
+  ]
+ },
+ {
+  "tr": "AdMob'u RevenueCat'e bağla ya da AdMob API'yi panele ekle.",
+  "src": [
+   "engine/src/diagnose.ts:282"
+  ]
+ },
+ {
+  "tr": "Adres https:// ile başlayan tünel adresi olmalı.",
+  "src": [
+   "engine/local/setup.ts:314"
+  ]
+ },
+ {
+  "tr": "Aksıyor",
+  "src": [
+   "engine/src/diagnose.ts:292"
+  ]
+ },
+ {
+  "tr": "Aktif abone",
+  "src": [
+   "Detail.swift:129"
+  ]
+ },
+ {
+  "tr": "Aktif abone {}, MRR ${}.",
+  "src": [
+   "engine/src/connectors/revenuecat.ts:78"
+  ]
+ },
+ {
+  "tr": "Aktif abone {}.",
+  "src": [
+   "engine/src/connectors/revenuecat.ts:104"
+  ]
+ },
+ {
+  "tr": "Aktif cihaz",
+  "src": [
+   "Views.swift:123"
+  ]
+ },
+ {
+  "tr": "Aktif cihaz (Google Play)",
+  "src": [
+   "Detail.swift:132",
+   "Detail.swift:148",
+   "MetricDetail.swift:35"
+  ]
+ },
+ {
+  "tr": "Altyapı",
+  "src": [
+   "Detail.swift:97",
+   "Views.swift:4",
+   "engine/src/index.ts:31"
+  ]
+ },
+ {
+  "tr": "Ana sayfanın en üstüne App Store/Play rozeti koy, iOS'ta Smart App Banner ekle, mağaza bağlantısına UTM/kampanya kodu koyup tıklamayı ölç.",
+  "src": [
+   "engine/src/diagnose.ts:194"
+  ]
+ },
+ {
+  "tr": "Anahtar dosyası okunamadı. Dosyanın bozulmadığından emin ol.",
+  "src": [
+   "engine/local/setup.ts:190"
+  ]
+ },
+ {
+  "tr": "Anahtar dosyası, Key ID ve Issuer ID üçü de gerekli.",
+  "src": [
+   "engine/local/setup.ts:184"
+  ]
+ },
+ {
+  "tr": "Anahtar dosyasındaki özel anahtar okunamadı. Google Cloud'dan indirdiğin JSON dosyasını olduğu gibi kullan.",
+  "src": [
+   "engine/local/setup.ts:52"
+  ]
+ },
+ {
+  "tr": "Anahtar kaydedildi. Google izni tanıyınca (24 saate kadar) Play verisi kendiliğinden gelmeye başlar. İstersen şimdi devam et.",
+  "src": [
+   "Setup.swift:687"
+  ]
+ },
+ {
+  "tr": "Anahtar yüklendi",
+  "src": [
+   "Setup.swift:678"
+  ]
+ },
+ {
+  "tr": "Anahtar çalışıyor ama bu projedeki uygulamalar seçtiğin ürünlerle eşleşmedi (paket adları farklı).",
+  "src": [
+   "Setup.swift:323"
+  ]
+ },
+ {
+  "tr": "Anahtar çalışıyor ama hiçbir siteyi göremiyor. Anahtara 'Zone: Analytics: Read' ve 'Zone: Zone: Read' izni ver.",
+  "src": [
+   "engine/local/setup.ts:251"
+  ]
+ },
+ {
+  "tr": "Anahtar çalışıyor. Şimdi Play Console adresini yapıştır.",
+  "src": [
+   "engine/local/setup.ts:218"
+  ]
+ },
+ {
+  "tr": "Anahtarlar Keychain'de durur, veriler bu bilgisayarda saklanır. Pulse yalnız senin bağladığın servislerle (Apple, Google, RevenueCat...) konuşur. Pulse'ın verilerini tutan bir sunucu yok; bağladığın hesaplardan hiçbir veri bize gelmez.",
+  "src": [
+   "Setup.swift:619"
+  ]
+ },
+ {
+  "tr": "Anahtarlar Keychain'de durur, veriler bu bilgisayarda saklanır. Pulse yalnız senin bağladığın servislerle (Apple, Google, RevenueCat...) konuşur. Pulse'ın verilerini tutan bir sunucu yok; bağladığın hesaplardan hiçbir veri bize gelmez. Yalnız günde bir kez yeni sürüm olup olmadığına bakılır.",
+  "src": [
+   "Setup.swift:618"
+  ]
+ },
+ {
+  "tr": "Anahtarların bu Mac'in Keychain'inde durur. Veriler yalnız bağladığın servislerden bu Mac'e gelir; yayıncıya hiçbir şey gitmez.",
+  "src": [
+   "Setup.swift:518"
+  ]
+ },
+ {
+  "tr": "Anahtarın uygulama listesini okuma yetkisi yok. Finance, Sales ya da Admin rolüyle yeni anahtar oluştur.",
+  "src": [
+   "engine/local/setup.ts:194"
+  ]
+ },
+ {
+  "tr": "Anahtarın yanındaki İndir'e bas. Dosya (AuthKey_XXXX.p8) yalnız bir kez inebilir, kaybetme.",
+  "src": [
+   "Setup.swift:645"
+  ]
+ },
+ {
+  "tr": "Analytics bağla, kullanıcıları gör",
+  "src": [
+   "Views.swift:126"
+  ]
+ },
+ {
+  "tr": "Analytics'i aç",
+  "src": [
+   "Setup.swift:762"
+  ]
+ },
+ {
+  "tr": "Android kaldırma 7g",
+  "src": [
+   "Detail.swift:148"
+  ]
+ },
+ {
+  "tr": "Android kurulum",
+  "src": [
+   "Detail.swift:130"
+  ]
+ },
+ {
+  "tr": "Android kurulum (son)",
+  "src": [
+   "Detail.swift:147"
+  ]
+ },
+ {
+  "tr": "Anlık abone, deneme, MRR ve gelir. Mağaza raporlarından çok daha hızlı.",
+  "src": [
+   "Setup.swift:748"
+  ]
+ },
+ {
+  "tr": "Anlık bildirimi (webhook) açtıysan: RevenueCat senin kurduğun tünel üzerinden bu Mac'e olay gönderir.",
+  "src": [
+   "About.swift:70"
+  ]
+ },
+ {
+  "tr": "Anlık satış bildirimi (RevenueCat webhook)",
+  "src": [
+   "Setup.swift:836"
+  ]
+ },
+ {
+  "tr": "Anthropic Console'da API Keys bölümünden anahtar oluştur. Rakamların ve yorum metinlerin analiz için Anthropic'e gider, ücreti senin hesabından düşer.",
+  "src": [
+   "Setup.swift:925"
+  ]
+ },
+ {
+  "tr": "Anthropic anahtarı reddetti. console.anthropic.com'dan yeni bir API anahtarı oluştur.",
+  "src": [
+   "engine/src/ai.ts:68"
+  ]
+ },
+ {
+  "tr": "App Store Connect'i bağla",
+  "src": [
+   "Setup.swift:632"
+  ]
+ },
+ {
+  "tr": "App Store Connect'te Kullanıcılar ve Erişim > Entegrasyonlar > App Store Connect API sayfasını aç.",
+  "src": [
+   "Setup.swift:642"
+  ]
+ },
+ {
+  "tr": "App Store araması",
+  "src": [
+   "AcquisitionView.swift:33"
+  ]
+ },
+ {
+  "tr": "App Store geliri Apple'ın net rakamıdır. Google Play geliri satış raporundan, Google'ın %15 payı düşülerek tahmini hesaplanır. RevenueCat bağlarsan ikisi de anlık ve kesin olur.",
+  "src": [
+   "Setup.swift:940"
+  ]
+ },
+ {
+  "tr": "App Store gezinme (öne çıkan, kategori)",
+  "src": [
+   "AcquisitionView.swift:34"
+  ]
+ },
+ {
+  "tr": "App Store indirme kaynakları",
+  "src": [
+   "engine/src/sources.ts:28"
+  ]
+ },
+ {
+  "tr": "App Store net gelir ($)",
+  "src": [
+   "Detail.swift:131"
+  ]
+ },
+ {
+  "tr": "App Store raporu, 1-2 gün gecikmeli.",
+  "src": [
+   "AcquisitionView.swift:66"
+  ]
+ },
+ {
+  "tr": "App Store satış",
+  "src": [
+   "engine/src/sources.ts:19"
+  ]
+ },
+ {
+  "tr": "App Store ya da Google Play'den en az biri. Uygulaman yalnız bir mağazadaysa diğerini atla.",
+  "src": [
+   "Setup.swift:952"
+  ]
+ },
+ {
+  "tr": "App Store yorum",
+  "src": [
+   "engine/src/sources.ts:20"
+  ]
+ },
+ {
+  "tr": "App'te aktif",
+  "src": [
+   "MetricDetail.swift:30",
+   "Views.swift:126",
+   "Views.swift:129"
+  ]
+ },
+ {
+  "tr": "Apple Small Business Program ve Play %15 kademesine kayıtlı olduğunu doğrula; web'den ödeme seçeneği düşün.",
+  "src": [
+   "engine/src/diagnose.ts:243"
+  ]
+ },
+ {
+  "tr": "Apple anahtarı reddetti. Key ID ve Issuer ID'nin bu dosyaya ait olduğundan emin ol (Issuer ID sayfanın üstünde yazar).",
+  "src": [
+   "engine/local/setup.ts:193"
+  ]
+ },
+ {
+  "tr": "Apple hatası ({}).",
+  "src": [
+   "engine/local/setup.ts:195"
+  ]
+ },
+ {
+  "tr": "Apple hesabı bağlı. Yeni anahtar girmek istersen aşağıyı doldur.",
+  "src": [
+   "Setup.swift:639"
+  ]
+ },
+ {
+  "tr": "Apple ilk analiz raporunu hazırlarken bekletir. Pulse raporu senin için açtı, kendisi takip eder.",
+  "src": [
+   "Setup.swift:941"
+  ]
+ },
+ {
+  "tr": "Apple satış raporu 1 gün, Google Play kurulum raporu 2-5 gün gecikmeli yayınlar. Yorumlar hemen gelir.",
+  "src": [
+   "Setup.swift:939"
+  ]
+ },
+ {
+  "tr": "Apple, okuma için bir API anahtarı istiyor. Bir kez oluşturman yeterli.",
+  "src": [
+   "Setup.swift:632"
+  ]
+ },
+ {
+  "tr": "Arşivde",
+  "src": [
+   "Meta.swift:342"
+  ]
+ },
+ {
+  "tr": "AuthKey_XXXX.p8 dosyasını buraya sürükle",
+  "src": [
+   "Setup.swift:647"
+  ]
+ },
+ {
+  "tr": "Aynı akışı bozmadan kurulum sayısını artırmaya odaklan.",
+  "src": [
+   "engine/src/diagnose.ts:221"
+  ]
+ },
+ {
+  "tr": "Aynı paket adına sahip App Store ve Play uygulamaları tek ürün olarak birleştirildi. Adı kısaltabilir, oyun olanları işaretleyebilirsin.",
+  "src": [
+   "Setup.swift:698"
+  ]
+ },
+ {
+  "tr": "Ayrıntı ve geçmiş",
+  "src": [
+   "Views.swift:347"
+  ]
+ },
+ {
+  "tr": "Ağu",
+  "src": [
+   "Loc.swift:105"
+  ]
+ },
+ {
+  "tr": "BUGÜN",
+  "src": [
+   "Views.swift:475"
+  ]
+ },
+ {
+  "tr": "BUGÜN BAKMAN GEREKEN · {}",
+  "src": [
+   "Views.swift:420"
+  ]
+ },
+ {
+  "tr": "BUGÜN kutusundaki sayılar, gün gün",
+  "src": [
+   "TodayHistory.swift:101"
+  ]
+ },
+ {
+  "tr": "Bağla",
+  "src": [
+   "Setup.swift:582",
+   "Setup.swift:588",
+   "Setup.swift:752"
+  ]
+ },
+ {
+  "tr": "Bağlama",
+  "src": [
+   "Setup.swift:766"
+  ]
+ },
+ {
+  "tr": "Bağlamadıklarını sonra eklersin",
+  "src": [
+   "Setup.swift:596"
+  ]
+ },
+ {
+  "tr": "Bağlandı: {}",
+  "src": [
+   "Setup.swift:327"
+  ]
+ },
+ {
+  "tr": "Bağlantılar: hesaplar ve ürünler",
+  "src": [
+   "Views.swift:309"
+  ]
+ },
+ {
+  "tr": "Bağlantılar…",
+  "src": [
+   "App.swift:156"
+  ]
+ },
+ {
+  "tr": "Bağlanınca dolacak: ",
+  "src": [
+   "Views.swift:737"
+  ]
+ },
+ {
+  "tr": "Bağlı: {}",
+  "src": [
+   "Setup.swift:1180"
+  ]
+ },
+ {
+  "tr": "Başka uygulamadan (Instagram, TikTok…)",
+  "src": [
+   "AcquisitionView.swift:35"
+  ]
+ },
+ {
+  "tr": "Başla",
+  "src": [
+   "Setup.swift:579"
+  ]
+ },
+ {
+  "tr": "Başlık/alt başlıkta aranan kelimeyi kullan, 3 ekran görüntüsünü fayda anlatan metinle yenile, sitedeki trafiği mağaza bağlantısına yönlendir.",
+  "src": [
+   "engine/src/diagnose.ts:186"
+  ]
+ },
+ {
+  "tr": "Bilinmeyen sağlayıcı.",
+  "src": [
+   "engine/local/setup.ts:285"
+  ]
+ },
+ {
+  "tr": "Bir uygulamaya bağlanmayan siteleri ayrı ürün olarak eklemek için Ürünlerin adımında işaretle.",
+  "src": [
+   "Setup.swift:807"
+  ]
+ },
+ {
+  "tr": "Bitir",
+  "src": [
+   "Setup.swift:597"
+  ]
+ },
+ {
+  "tr": "Bot bulundu (@{}). Şimdi Telegram'da bu bota herhangi bir mesaj yaz, sonra tekrar Bağla'ya bas.",
+  "src": [
+   "engine/local/setup.ts:304"
+  ]
+ },
+ {
+  "tr": "Bot ya da tarayıcı saldırısı geliyor.",
+  "src": [
+   "engine/src/diagnose.ts:146"
+  ]
+ },
+ {
+  "tr": "Brüt gelir ($)",
+  "src": [
+   "Detail.swift:128"
+  ]
+ },
+ {
+  "tr": "Brüt gelir 28g",
+  "src": [
+   "Detail.swift:140"
+  ]
+ },
+ {
+  "tr": "Brüt gelir 7g",
+  "src": [
+   "Detail.swift:140"
+  ]
+ },
+ {
+  "tr": "Brüt gelir dün",
+  "src": [
+   "Detail.swift:139"
+  ]
+ },
+ {
+  "tr": "Brüt {} · net {}",
+  "src": [
+   "TodayHistory.swift:262"
+  ]
+ },
+ {
+  "tr": "Brütün sadece {}'i sana kalıyor ({} → {})",
+  "src": [
+   "engine/src/diagnose.ts:243"
+  ]
+ },
+ {
+  "tr": "Bu Mac'teki bütün anahtarlar (Keychain) ve Pulse'ın topladığı bütün veriler silinir. Bağladığın hesaplarda (Apple, Google, RevenueCat...) hiçbir şey değişmez; oralarda oluşturduğun anahtarları istersen kendin iptal edebilirsin. Bu işlem geri alınamaz.",
+  "src": [
+   "About.swift:31"
+  ]
+ },
+ {
+  "tr": "Bu adımdaki her şey isteğe bağlı. Hiçbirini bağlamadan Bitir diyebilirsin; panel App Store ve Google Play verisiyle çalışır. Sonradan panelin dişli simgesinden ya da boş kutulardaki Bağla düğmelerinden buraya dönersin.",
+  "src": [
+   "Setup.swift:744"
+  ]
+ },
+ {
+  "tr": "Bu adımı atla",
+  "src": [
+   "Setup.swift:581",
+   "Setup.swift:587"
+  ]
+ },
+ {
+  "tr": "Bu aralıkta kaynak verisi yok.",
+  "src": [
+   "SiteSourcesView.swift:52"
+  ]
+ },
+ {
+  "tr": "Bu aralıkta kayıt yok.",
+  "src": [
+   "SourcesView.swift:284"
+  ]
+ },
+ {
+  "tr": "Bu aralıkta veri yok.",
+  "src": [
+   "AcquisitionView.swift:92"
+  ]
+ },
+ {
+  "tr": "Bu bir .p8 anahtar dosyası gibi görünmüyor. App Store Connect'ten indirdiğin AuthKey_XXXX.p8 dosyasını kullan.",
+  "src": [
+   "engine/local/setup.ts:185"
+  ]
+ },
+ {
+  "tr": "Bu bir servis hesabı anahtar dosyası değil. Google Cloud'da servis hesabının 'Anahtarlar' sekmesinden JSON anahtar indir.",
+  "src": [
+   "engine/local/setup.ts:211"
+  ]
+ },
+ {
+  "tr": "Bu bir servis hesabı anahtar dosyası değil. Google Cloud'da servis hesabının Anahtarlar sekmesinden JSON indir.",
+  "src": [
+   "Setup.swift:214"
+  ]
+ },
+ {
+  "tr": "Bu fiyatı/paketi koru, kurulumu büyüt.",
+  "src": [
+   "engine/src/diagnose.ts:241"
+  ]
+ },
+ {
+  "tr": "Bu gün ürün bazında kayıt yok.",
+  "src": [
+   "TodayHistory.swift:266"
+  ]
+ },
+ {
+  "tr": "Bu hafta hiç kurulum yok. Uygulama mağazada görünmüyor, ASO ve tanıtım lazım.",
+  "src": [
+   "engine/src/buddy.ts:73"
+  ]
+ },
+ {
+  "tr": "Bu hafta yalnız {} kurulum. Uygulama mağazada görünmüyor, ASO ve tanıtım lazım.",
+  "src": [
+   "engine/src/buddy.ts:73"
+  ]
+ },
+ {
+  "tr": "Bu hafta {} abone ayrıldı (aktif {})",
+  "src": [
+   "engine/src/diagnose.ts:249"
+  ]
+ },
+ {
+  "tr": "Bu hafta {} kişi aboneliği bıraktı. İptal nedenlerine ve son sürüme bak.",
+  "src": [
+   "engine/src/buddy.ts:77"
+  ]
+ },
+ {
+  "tr": "Bu hafta {} satış ({})",
+  "src": [
+   "engine/src/diagnose.ts:141"
+  ]
+ },
+ {
+  "tr": "Bu model yüklü değil: {}. Terminalde \"ollama pull {}\" çalıştır. Yüklü olanlar: {}.",
+  "src": [
+   "engine/src/ai.ts:75"
+  ]
+ },
+ {
+  "tr": "Bu projede iki servisi aç. Her linkte Etkinleştir'e bas.",
+  "src": [
+   "Setup.swift:673"
+  ]
+ },
+ {
+  "tr": "Bu rapor deposu bulunamadı. Play Console adresini tarayıcının adres çubuğundan olduğu gibi kopyala.",
+  "src": [
+   "engine/local/setup.ts:81"
+  ]
+ },
+ {
+  "tr": "Bu sürüm için gizle",
+  "src": [
+   "Update.swift:131"
+  ]
+ },
+ {
+  "tr": "Bu ürün RevenueCat'e bağlı değil.",
+  "src": [
+   "engine/src/diagnose.ts:278"
+  ]
+ },
+ {
+  "tr": "Bugün",
+  "src": [
+   "Meta.swift:156",
+   "MetricDetail.swift:178",
+   "MetricDetail.swift:184"
+  ]
+ },
+ {
+  "tr": "Bugün aktif",
+  "src": [
+   "Detail.swift:137"
+  ]
+ },
+ {
+  "tr": "Bugün bu başlıkta bir şey yok.",
+  "src": [
+   "Views.swift:255"
+  ]
+ },
+ {
+  "tr": "Bugün henüz sayaca düşen ziyaret yok.",
+  "src": [
+   "SourcesView.swift:50"
+  ]
+ },
+ {
+  "tr": "Bugün iptal",
+  "src": [
+   "Views.swift:460"
+  ]
+ },
+ {
+  "tr": "Bugün satış",
+  "src": [
+   "Views.swift:461"
+  ]
+ },
+ {
+  "tr": "Bugün yeni abone",
+  "src": [
+   "Views.swift:458"
+  ]
+ },
+ {
+  "tr": "Bugün yeni deneme",
+  "src": [
+   "Views.swift:459"
+  ]
+ },
+ {
+  "tr": "Bugün {} kötü niyetli istek engellendi, gerçek ziyaretçiden fazla. WAF kurallarına bir göz at.",
+  "src": [
+   "engine/src/buddy.ts:86"
+  ]
+ },
+ {
+  "tr": "Bugün {} satış, net ${}.",
+  "src": [
+   "engine/src/connectors/stripe.ts:83"
+  ]
+ },
+ {
+  "tr": "Bugün {} yeni abone geldi 🎉",
+  "src": [
+   "engine/src/buddy.ts:90"
+  ]
+ },
+ {
+  "tr": "Bugünkü yorumlar",
+  "src": [
+   "Views.swift:463"
+  ]
+ },
+ {
+  "tr": "Bütün bağlantılar ve veriler silinsin mi?",
+  "src": [
+   "About.swift:30"
+  ]
+ },
+ {
+  "tr": "Bütün bağlantıları ve verileri sil",
+  "src": [
+   "About.swift:91"
+  ]
+ },
+ {
+  "tr": "Bütün veriler bu Mac'te, Pulse'ın veri klasöründe saklanır. Bağlantı anahtarların bu Mac'in Keychain'inde durur.",
+  "src": [
+   "About.swift:62"
+  ]
+ },
+ {
+  "tr": "Canlı bir Stripe anahtarı gerekli (rk_live_ ile başlayan kısıtlı anahtar önerilir).",
+  "src": [
+   "engine/local/setup.ts:237"
+  ]
+ },
+ {
+  "tr": "Cloudflare anahtarı reddetti.",
+  "src": [
+   "engine/local/setup.ts:247"
+  ]
+ },
+ {
+  "tr": "Cloudflare aynı sürede {} tekil ziyaretçi sayıyor. Aradaki fark büyük ölçüde botlar, tarayıcısız istekler ve güvenlik taramaları. Gerçek ziyaret, sayfayı tarayıcıda açan kişilerin oturum sayısı.",
+  "src": [
+   "SourcesView.swift:173"
+  ]
+ },
+ {
+  "tr": "Cloudflare {} sayıyor, botlar dahil · {} siteden",
+  "src": [
+   "SourcesView.swift:66"
+  ]
+ },
+ {
+  "tr": "Cloudflare'de Bot Fight Mode'u aç, şüpheli ülkelere challenge koy.",
+  "src": [
+   "engine/src/diagnose.ts:146"
+  ]
+ },
+ {
+  "tr": "Cloudflare'de My Profile > API Tokens > Create Token > Custom token. İzinler: Zone > Zone > Read ve Zone > Analytics > Read.",
+  "src": [
+   "Setup.swift:803"
+  ]
+ },
+ {
+  "tr": "Cloudflare'i aç",
+  "src": [
+   "Setup.swift:804"
+  ]
+ },
+ {
+  "tr": "Console'u aç",
+  "src": [
+   "Setup.swift:926"
+  ]
+ },
+ {
+  "tr": "D1 geri dönüş",
+  "src": [
+   "Detail.swift:144"
+  ]
+ },
+ {
+  "tr": "D7 geri dönüş",
+  "src": [
+   "Detail.swift:144"
+  ]
+ },
+ {
+  "tr": "Daha az yeni abone ya da yenilemeler azaldı.",
+  "src": [
+   "engine/src/diagnose.ts:240"
+  ]
+ },
+ {
+  "tr": "Daha fazlası",
+  "src": [
+   "Setup.swift:545"
+  ]
+ },
+ {
+  "tr": "Daha çok satış ya da daha yüksek fiyat tuttu.",
+  "src": [
+   "engine/src/diagnose.ts:241"
+  ]
+ },
+ {
+  "tr": "Dene",
+  "src": [
+   "Setup.swift:850"
+  ]
+ },
+ {
+  "tr": "Deneme / gün",
+  "src": [
+   "Meta.swift:280"
+  ]
+ },
+ {
+  "tr": "Deneme azalırken doğrudan satın alma artmış: fiyat testi deneme yerine direkt ödemeye itiyor olabilir.",
+  "src": [
+   "engine/src/diagnose.ts:236"
+  ]
+ },
+ {
+  "tr": "Deneme başlatan",
+  "src": [
+   "engine/src/diagnose.ts:160"
+  ]
+ },
+ {
+  "tr": "Deneme başı",
+  "src": [
+   "Meta.swift:175"
+  ]
+ },
+ {
+  "tr": "Deneme teklifi görünmüyor ya da kurulum azaldı.",
+  "src": [
+   "engine/src/diagnose.ts:236"
+  ]
+ },
+ {
+  "tr": "Denemede {} kişi var.",
+  "src": [
+   "engine/src/connectors/revenuecat.ts:95"
+  ]
+ },
+ {
+  "tr": "Devam",
+  "src": [
+   "Detail.swift:491",
+   "Setup.swift:582",
+   "Setup.swift:588"
+  ]
+ },
+ {
+  "tr": "Devam etmek için App Store ya da Google Play'den en az birini bağlamalısın. Geri dönüp birini bağla; ikisi de olur.",
+  "src": [
+   "Setup.swift:700"
+  ]
+ },
+ {
+  "tr": "Değer",
+  "src": [
+   "MetricDetail.swift:189",
+   "MetricDetail.swift:193"
+  ]
+ },
+ {
+  "tr": "Diğer",
+  "src": [
+   "engine/src/connectors/acquisition.ts:155"
+  ]
+ },
+ {
+  "tr": "Diğer (doğrudan link vb.)",
+  "src": [
+   "AcquisitionView.swift:49"
+  ]
+ },
+ {
+  "tr": "Diğer arama motorları",
+  "src": [
+   "SiteSourcesView.swift:15"
+  ]
+ },
+ {
+  "tr": "Diğer yapay zekâlar",
+  "src": [
+   "SiteSourcesView.swift:21"
+  ]
+ },
+ {
+  "tr": "Diğer ülkelerde mağaza sayfası görünmüyor ya da yerelleştirme zayıf.",
+  "src": [
+   "engine/src/diagnose.ts:275"
+  ]
+ },
+ {
+  "tr": "Dosya okunamadı.",
+  "src": [
+   "Setup.swift:187"
+  ]
+ },
+ {
+  "tr": "Dosyayı aşağıya sürükle. Key ID dosya adından otomatik dolar. Issuer ID aynı sayfanın üstünde yazar.",
+  "src": [
+   "Setup.swift:646"
+  ]
+ },
+ {
+  "tr": "Doğrudan (adres yazan, yer imi)",
+  "src": [
+   "SiteSourcesView.swift:10"
+  ]
+ },
+ {
+  "tr": "Duraklatıldı",
+  "src": [
+   "Meta.swift:338"
+  ]
+ },
+ {
+  "tr": "Dönüşüm",
+  "src": [
+   "engine/src/diagnose.ts:134",
+   "engine/src/diagnose.ts:140",
+   "engine/src/diagnose.ts:141"
+  ]
+ },
+ {
+  "tr": "Dönüşüm {}%, ölçüt %1",
+  "src": [
+   "engine/src/diagnose.ts:140"
+  ]
+ },
+ {
+  "tr": "Dün",
+  "src": [
+   "MetricDetail.swift:178",
+   "MetricDetail.swift:185",
+   "MetricDetail.swift:189"
+  ]
+ },
+ {
+  "tr": "Dün aktif",
+  "src": [
+   "Detail.swift:137"
+  ]
+ },
+ {
+  "tr": "Dün aktif kullanıcı normalin {}'ine düştü. Giriş akışı ya da sunucu sorun çıkarıyor olabilir.",
+  "src": [
+   "engine/src/buddy.ts:55"
+  ]
+ },
+ {
+  "tr": "Dün bu saatle karşılaştırma için kayıt yeni başladı.",
+  "src": [
+   "MetricDetail.swift:162"
+  ]
+ },
+ {
+  "tr": "Dün kurulum çok düşüktü: {}, normalin {}'i. Mağaza sayfası, sıralama ya da reklam düşmüş olabilir.",
+  "src": [
+   "engine/src/buddy.ts:52"
+  ]
+ },
+ {
+  "tr": "Dün uçtu 🔥 {} kurulum, normalin {}. Nereden geldiğine bak, o kanalı besle.",
+  "src": [
+   "engine/src/buddy.ts:50"
+  ]
+ },
+ {
+  "tr": "Dünkü indirmeler, ülke",
+  "src": [
+   "Detail.swift:337"
+  ]
+ },
+ {
+  "tr": "Düzelt",
+  "src": [
+   "Detail.swift:188"
+  ]
+ },
+ {
+  "tr": "Ek deneme",
+  "src": [
+   "Meta.swift:285"
+  ]
+ },
+ {
+  "tr": "Ek deneme başı",
+  "src": [
+   "Meta.swift:286"
+  ]
+ },
+ {
+  "tr": "Ek gelir",
+  "src": [
+   "Meta.swift:287"
+  ]
+ },
+ {
+  "tr": "Ek kurulum",
+  "src": [
+   "Meta.swift:276"
+  ]
+ },
+ {
+  "tr": "Ek kurulum başı",
+  "src": [
+   "Meta.swift:277"
+  ]
+ },
+ {
+  "tr": "Ekip Anahtarları (Team Keys) sekmesinde + ile yeni anahtar oluştur ve erişim seç. Admin: her şey gelir (kullanım istatistiklerini açmak için Apple bunu istiyor). Daha dar yetki istersen Finance ya da Sales seç; indirme ve gelir yine gelir, kullanım istatistikleri ve bazı yorumlar gelmeyebilir. Pulse anahtarla yalnız okur; anahtar yalnız bu Mac'te durur.",
+  "src": [
+   "Setup.swift:644"
+  ]
+ },
+ {
+  "tr": "Ekranlar (7 gün): nerede kalıyorlar",
+  "src": [
+   "Detail.swift:286"
+  ]
+ },
+ {
+  "tr": "En çok fark yaratanlar",
+  "src": [
+   "Setup.swift:746"
+  ]
+ },
+ {
+  "tr": "Etkileşim",
+  "src": [
+   "engine/src/diagnose.ts:122"
+  ]
+ },
+ {
+  "tr": "Facebook/Instagram reklam harcaması, kurulum başı maliyet, reklam bazında sonuçlar. Yalnız okur.",
+  "src": [
+   "Setup.swift:772"
+  ]
+ },
+ {
+  "tr": "Fareyi ekranının sağ kenarına götür, panel açılır. Menü çubuğundaki Pulse simgesinden de açabilirsin.",
+  "src": [
+   "Setup.swift:936"
+  ]
+ },
+ {
+  "tr": "Farklı para birimlerini dolara çevirmek için günde bir kez herkese açık döviz kuru servisi (open.er-api.com). Bu istekte senin hiçbir verin yoktur.",
+  "src": [
+   "About.swift:68"
+  ]
+ },
+ {
+  "tr": "Filtreyi kaldır",
+  "src": [
+   "Views.swift:521"
+  ]
+ },
+ {
+  "tr": "Firebase projesinde Google Analytics'i bağla; ekran bazlı çıkış ve D1/D7 tutma gelsin.",
+  "src": [
+   "engine/src/diagnose.ts:281"
+  ]
+ },
+ {
+  "tr": "Fiyat sayfasında tek paket öne çıkar, para iade garantisi yaz.",
+  "src": [
+   "engine/src/diagnose.ts:140"
+  ]
+ },
+ {
+  "tr": "Fiyat/paywall değişikliği ya da daha kaliteli trafik işe yaradı.",
+  "src": [
+   "engine/src/diagnose.ts:230"
+  ]
+ },
+ {
+  "tr": "GA4 erişimi yok",
+  "src": [
+   "engine/src/connectors/ga4.ts:99"
+  ]
+ },
+ {
+  "tr": "Gelen kalmıyor",
+  "src": [
+   "engine/src/diagnose.ts:259"
+  ]
+ },
+ {
+  "tr": "Gelen kişi ortalama {} sayfa bakıp çıkıyor",
+  "src": [
+   "engine/src/diagnose.ts:123"
+  ]
+ },
+ {
+  "tr": "Gelir / gün",
+  "src": [
+   "Meta.swift:282"
+  ]
+ },
+ {
+  "tr": "Gelir bugün",
+  "src": [
+   "Views.swift:643"
+  ]
+ },
+ {
+  "tr": "Gelir geçen haftadan {} yukarıda (${}). Ne değiştiyse aynen devam.",
+  "src": [
+   "engine/src/buddy.ts:63"
+  ]
+ },
+ {
+  "tr": "Gelir geçen haftaya göre {} düştü (${} → ${}). Paywall ya da fiyatta bir şey mi değişti?",
+  "src": [
+   "engine/src/buddy.ts:62"
+  ]
+ },
+ {
+  "tr": "Gelir nasıl hesaplanır",
+  "src": [
+   "Setup.swift:940"
+  ]
+ },
+ {
+  "tr": "Gerekmezse hiç dokunma",
+  "src": [
+   "Setup.swift:835"
+  ]
+ },
+ {
+  "tr": "Geri",
+  "src": [
+   "Setup.swift:572"
+  ]
+ },
+ {
+  "tr": "Geri dönüş (son 14 gün, {} yeni kullanıcı)",
+  "src": [
+   "Detail.swift:250"
+  ]
+ },
+ {
+  "tr": "Geri dönüş bildirimi (sabah özeti vb.) kur, son sürümün çökme raporlarına bak.",
+  "src": [
+   "engine/src/diagnose.ts:255"
+  ]
+ },
+ {
+  "tr": "Gerçek ziyaret, sayfayı tarayıcıda açan kişilerin oturum sayısı.",
+  "src": [
+   "SourcesView.swift:174"
+  ]
+ },
+ {
+  "tr": "Geçmiş",
+  "src": [
+   "Detail.swift:35"
+  ]
+ },
+ {
+  "tr": "Geçmiş yüklenemedi.",
+  "src": [
+   "TodayHistory.swift:126"
+  ]
+ },
+ {
+  "tr": "Girişte başlat",
+  "src": [
+   "App.swift:159"
+  ]
+ },
+ {
+  "tr": "Gizli anahtar oluştur",
+  "src": [
+   "Setup.swift:842"
+  ]
+ },
+ {
+  "tr": "Gizli anahtarı oluştur. Pulse bilgisayarında {} portunda dinlemeye başlar.",
+  "src": [
+   "Setup.swift:840"
+  ]
+ },
+ {
+  "tr": "Gizlilik ayrıntıları",
+  "src": [
+   "Setup.swift:521"
+  ]
+ },
+ {
+  "tr": "Google AI Studio'da Get API key ile anahtar oluştur. Rakamların ve yorum metinlerin analiz için Google'a gider.",
+  "src": [
+   "Setup.swift:919"
+  ]
+ },
+ {
+  "tr": "Google Analytics hatası: {}",
+  "src": [
+   "engine/local/setup.ts:276"
+  ]
+ },
+ {
+  "tr": "Google Analytics'te Yönetici > Mülk erişim yönetimi'nden servis hesabı e-postasını Görüntüleyici olarak ekle. Firebase kullanıyorsan mülk Analytics'te zaten var.",
+  "src": [
+   "Setup.swift:761"
+  ]
+ },
+ {
+  "tr": "Google Cloud projende 'Google Analytics Admin API' ve 'Google Analytics Data API' açık değil. İkisini de etkinleştir.",
+  "src": [
+   "engine/local/setup.ts:275"
+  ]
+ },
+ {
+  "tr": "Google Cloud'da yeni bir proje oluştur (adı önemli değil, örneğin \"pulse\").",
+  "src": [
+   "Setup.swift:671"
+  ]
+ },
+ {
+  "tr": "Google Play adımındaki Google Cloud projesinde iki servisi aç.",
+  "src": [
+   "Setup.swift:758"
+  ]
+ },
+ {
+  "tr": "Google Play bağlı.",
+  "src": [
+   "Setup.swift:668"
+  ]
+ },
+ {
+  "tr": "Google Play gelir",
+  "src": [
+   "engine/src/sources.ts:26"
+  ]
+ },
+ {
+  "tr": "Google Play net gelir, tahmini ($)",
+  "src": [
+   "Detail.swift:131"
+  ]
+ },
+ {
+  "tr": "Google Play'i bağla",
+  "src": [
+   "Setup.swift:665"
+  ]
+ },
+ {
+  "tr": "Google Play, son rapor",
+  "src": [
+   "Views.swift:123"
+  ]
+ },
+ {
+  "tr": "Google anahtarı kabul etmedi: {}. Anahtar silinmiş ya da servis hesabı kapatılmış olabilir.",
+  "src": [
+   "engine/local/setup.ts:60"
+  ]
+ },
+ {
+  "tr": "Google depo hatası ({}).",
+  "src": [
+   "engine/local/setup.ts:82"
+  ]
+ },
+ {
+  "tr": "Google sıralaması kaymış, bir paylaşımın etkisi bitmiş ya da reklam kapanmış olabilir.",
+  "src": [
+   "engine/src/diagnose.ts:115"
+  ]
+ },
+ {
+  "tr": "Google'da kendi hesabına ait bir okuma anahtarı (servis hesabı) oluşturacaksın. Bir kerelik, yaklaşık 5 dakika.",
+  "src": [
+   "Setup.swift:665"
+  ]
+ },
+ {
+  "tr": "GÖNDEREN SİTELER",
+  "src": [
+   "AcquisitionView.swift:137"
+  ]
+ },
+ {
+  "tr": "GÖNDEREN SİTELER (TÜM ZAMANLAR)",
+  "src": [
+   "SiteSourcesView.swift:86"
+  ]
+ },
+ {
+  "tr": "GÜNÜN İYİ HABERİ · {}",
+  "src": [
+   "Views.swift:420"
+  ]
+ },
+ {
+  "tr": "Göremediğim yerler",
+  "src": [
+   "Detail.swift:398"
+  ]
+ },
+ {
+  "tr": "Görünürlük",
+  "src": [
+   "engine/src/diagnose.ts:183"
+  ]
+ },
+ {
+  "tr": "Gösterim",
+  "src": [
+   "Meta.swift:164"
+  ]
+ },
+ {
+  "tr": "Gösterim/DAU",
+  "src": [
+   "Detail.swift:144"
+  ]
+ },
+ {
+  "tr": "Gün",
+  "src": [
+   "Detail.swift:253",
+   "Meta.swift:196",
+   "Meta.swift:216"
+  ]
+ },
+ {
+  "tr": "Gün gün",
+  "src": [
+   "MetricDetail.swift:84"
+  ]
+ },
+ {
+  "tr": "Gün içinde",
+  "src": [
+   "MetricDetail.swift:182"
+  ]
+ },
+ {
+  "tr": "Güncellemeler",
+  "src": [
+   "About.swift:73"
+  ]
+ },
+ {
+  "tr": "Günlük aktif kullanıcı",
+  "src": [
+   "Detail.swift:127"
+  ]
+ },
+ {
+  "tr": "Günlük aktif kullanıcı {} düştü",
+  "src": [
+   "engine/src/diagnose.ts:255"
+  ]
+ },
+ {
+  "tr": "Günlük aktif kullanıcı, günlük kurulumun sadece {} katı; insanlar ilk günden sonra dönmüyor.",
+  "src": [
+   "engine/src/diagnose.ts:259"
+  ]
+ },
+ {
+  "tr": "Günlük geçmiş",
+  "src": [
+   "TodayHistory.swift:100",
+   "Views.swift:478"
+  ]
+ },
+ {
+  "tr": "Günlük harcama ve kurulum",
+  "src": [
+   "Meta.swift:191"
+  ]
+ },
+ {
+  "tr": "Günlük ve anlık aktif kullanıcı, en çok kullanılan ekranlar, geri dönüş oranı.",
+  "src": [
+   "Setup.swift:756"
+  ]
+ },
+ {
+  "tr": "Güvenlik",
+  "src": [
+   "engine/src/diagnose.ts:146"
+  ]
+ },
+ {
+  "tr": "Haftada sadece {} kurulum",
+  "src": [
+   "engine/src/diagnose.ts:184"
+  ]
+ },
+ {
+  "tr": "Haftada {} kurulum var ama tek kuruş yok. Paywall akışına ya da fiyat sayfasına bak.",
+  "src": [
+   "engine/src/buddy.ts:70"
+  ]
+ },
+ {
+  "tr": "Haftada ~{} ziyaret var ama satış yok. Fiyat sayfasını ve ödeme akışını kendin bir dene.",
+  "src": [
+   "engine/src/buddy.ts:84"
+  ]
+ },
+ {
+  "tr": "Hakkında ve gizlilik…",
+  "src": [
+   "App.swift:157"
+  ]
+ },
+ {
+  "tr": "Hangi ekranda takılıp çıktıklarını göremiyorum",
+  "src": [
+   "engine/src/diagnose.ts:281"
+  ]
+ },
+ {
+  "tr": "Hangi sayfada çıktıklarını göremiyorum",
+  "src": [
+   "engine/src/diagnose.ts:147"
+  ]
+ },
+ {
+  "tr": "Hangi ülke/kanaldan geldiğini bul ve oraya yüklen.",
+  "src": [
+   "engine/src/diagnose.ts:180"
+  ]
+ },
+ {
+  "tr": "Hangi ürünleri izleyelim?",
+  "src": [
+   "Setup.swift:698"
+  ]
+ },
+ {
+  "tr": "Hazır",
+  "src": [
+   "Setup.swift:546",
+   "Setup.swift:935"
+  ]
+ },
+ {
+  "tr": "Henüz kampanya yok. İlk kampanya açılınca durumu, bütçesi ve harcaması burada görünür.",
+  "src": [
+   "Meta.swift:236"
+  ]
+ },
+ {
+  "tr": "Henüz veri yok",
+  "src": [
+   "Views.swift:264"
+  ]
+ },
+ {
+  "tr": "Henüz veri yok, kaynak bağlanınca yorum yaparım.",
+  "src": [
+   "engine/src/buddy.ts:96"
+  ]
+ },
+ {
+  "tr": "Henüz yayında değil",
+  "src": [
+   "engine/src/diagnose.ts:166"
+  ]
+ },
+ {
+  "tr": "Henüz yorum yok.",
+  "src": [
+   "ReviewsDetail.swift:52"
+  ]
+ },
+ {
+  "tr": "Her sabah her ürün için kısa not: ne oldu, neden olabilir, bugün ne denemeli. Claude, ChatGPT, Gemini ya da bilgisayarındaki yerel model.",
+  "src": [
+   "Setup.swift:812"
+  ]
+ },
+ {
+  "tr": "Hoş geldin",
+  "src": [
+   "Setup.swift:541"
+  ]
+ },
+ {
+  "tr": "Kapat",
+  "src": [
+   "Toast.swift:98",
+   "Views.swift:311"
+  ]
+ },
+ {
+  "tr": "Kaydet",
+  "src": [
+   "Setup.swift:906"
+  ]
+ },
+ {
+  "tr": "Kaydet ve devam",
+  "src": [
+   "Setup.swift:593"
+  ]
+ },
+ {
+  "tr": "Kopyala",
+  "src": [
+   "Setup.swift:1084"
+  ]
+ },
+ {
+  "tr": "Kopyalandı",
+  "src": [
+   "Setup.swift:1084"
+  ]
+ },
+ {
+  "tr": "Kullanıcı",
+  "src": [
+   "engine/src/diagnose.ts:255",
+   "engine/src/diagnose.ts:259"
+  ]
+ },
+ {
+  "tr": "Kullanıcı aldığını beğenmiyor ya da yanlışlıkla satın alıyor.",
+  "src": [
+   "engine/src/diagnose.ts:246"
+  ]
+ },
+ {
+  "tr": "Kullanıcı davranışı verisi yok. Firebase Analytics bağlanınca ekran ekran takılma ve geri dönüş oranı burada görünür.",
+  "src": [
+   "Detail.swift:67"
+  ]
+ },
+ {
+  "tr": "Kullanıcı memnun.",
+  "src": [
+   "engine/src/diagnose.ts:268"
+  ]
+ },
+ {
+  "tr": "Kullanıcılar",
+  "src": [
+   "Detail.swift:35"
+  ]
+ },
+ {
+  "tr": "Kullanıcılar bir şeyden şikayetçi.",
+  "src": [
+   "engine/src/diagnose.ts:267"
+  ]
+ },
+ {
+  "tr": "Kullanım istatistikleri 1-2 gün sonra",
+  "src": [
+   "Setup.swift:941"
+  ]
+ },
+ {
+  "tr": "Kullanıyorsan",
+  "src": [
+   "Setup.swift:770"
+  ]
+ },
+ {
+  "tr": "Kurulanların sadece {}%'i deneme başlatıyor (ölçüt %5+)",
+  "src": [
+   "engine/src/diagnose.ts:210"
+  ]
+ },
+ {
+  "tr": "Kurulanların {}%'i abone oluyor",
+  "src": [
+   "engine/src/diagnose.ts:221"
+  ]
+ },
+ {
+  "tr": "Kurulanların {}%'i abone oluyor (ölçüt %2)",
+  "src": [
+   "engine/src/diagnose.ts:217"
+  ]
+ },
+ {
+  "tr": "Kurulum / gün",
+  "src": [
+   "Meta.swift:275"
+  ]
+ },
+ {
+  "tr": "Kurulum başı $0,10'u geçmeden ücretli reklam açma. Önce dönüşümü yükselt.",
+  "src": [
+   "engine/src/diagnose.ts:225"
+  ]
+ },
+ {
+  "tr": "Kurulum başı net gelir {}",
+  "src": [
+   "engine/src/diagnose.ts:225"
+  ]
+ },
+ {
+  "tr": "Kurulum bugün",
+  "src": [
+   "Detail.swift:138",
+   "Views.swift:639",
+   "Views.swift:647"
+  ]
+ },
+ {
+  "tr": "Kurulum dün",
+  "src": [
+   "Detail.swift:138"
+  ]
+ },
+ {
+  "tr": "Kurulum düştüğü için abone de düştü.",
+  "src": [
+   "engine/src/diagnose.ts:232"
+  ]
+ },
+ {
+  "tr": "Kurulum yaklaşık 10 dakika sürer. Her adımda ne yapacağın tek tek gösterilir.",
+  "src": [
+   "Setup.swift:622"
+  ]
+ },
+ {
+  "tr": "Kurulum yerinde ama satın alan azaldı: paywall, fiyat ya da son sürümde bir şey bozulmuş olabilir.",
+  "src": [
+   "engine/src/diagnose.ts:232"
+  ]
+ },
+ {
+  "tr": "Kurulum, kaldırma, aktif cihaz ve yorumlar.",
+  "src": [
+   "Setup.swift:615"
+  ]
+ },
+ {
+  "tr": "Kurulumlar {} arttı ({})",
+  "src": [
+   "engine/src/diagnose.ts:180"
+  ]
+ },
+ {
+  "tr": "Kurulumlar {} düştü ({} → {})",
+  "src": [
+   "engine/src/diagnose.ts:173"
+  ]
+ },
+ {
+  "tr": "Kurumsal alım",
+  "src": [
+   "AcquisitionView.swift:37"
+  ]
+ },
+ {
+  "tr": "Kötü gidiyor",
+  "src": [
+   "engine/src/diagnose.ts:292"
+  ]
+ },
+ {
+  "tr": "Kötü yorumlara mağazadan cevap ver, en çok geçen şikayeti sonraki sürümde düzelt ve cevaba yaz.",
+  "src": [
+   "engine/src/diagnose.ts:267"
+  ]
+ },
+ {
+  "tr": "Kırılma gününde ne değişti bak (sürüm, fiyat, reklam bütçesi, mağaza görselleri). ASC'de kaynak kırılımına (arama/göz atma/yönlendiren) bak, düşen kanalı geri besle. Ekran görüntüleri ve alt başlıkla yeni bir ASO denemesi aç.",
+  "src": [
+   "engine/src/diagnose.ts:177"
+  ]
+ },
+ {
+  "tr": "Kısa cevap ver.",
+  "src": [
+   "engine/src/ai.ts:78"
+  ]
+ },
+ {
+  "tr": "Listeyi buna göre süz",
+  "src": [
+   "Views.swift:521"
+  ]
+ },
+ {
+  "tr": "Mağaza",
+  "src": [
+   "engine/src/diagnose.ts:267",
+   "engine/src/diagnose.ts:268"
+  ]
+ },
+ {
+  "tr": "Mağaza payı (%15-30) ve KDV (TR'de %20) düşülüyor. %30 kesiliyorsa Small Business Program kaydı eksik olabilir.",
+  "src": [
+   "engine/src/diagnose.ts:243"
+  ]
+ },
+ {
+  "tr": "Mağaza raporu 1-3 gün gecikmeli gelir, bu yüzden son gelen günü gösteriyor.",
+  "src": [
+   "SourcesView.swift:258"
+  ]
+ },
+ {
+  "tr": "Mağazada aramada çıkmıyor; dışarıdan trafik de yok.",
+  "src": [
+   "engine/src/diagnose.ts:185"
+  ]
+ },
+ {
+  "tr": "Mağazada olmadığı için kurulum ve gelir yok.",
+  "src": [
+   "engine/src/diagnose.ts:166"
+  ]
+ },
+ {
+  "tr": "Meta Reklam",
+  "src": [
+   "Meta.swift:139",
+   "engine/src/sources.ts:27"
+  ]
+ },
+ {
+  "tr": "Meta abone",
+  "src": [
+   "Meta.swift:183"
+  ]
+ },
+ {
+  "tr": "Meta bağlı. Hesap eşlemesini değiştirmek için token'ı yeniden gir.",
+  "src": [
+   "Setup.swift:778"
+  ]
+ },
+ {
+  "tr": "Meta deneme",
+  "src": [
+   "Meta.swift:174"
+  ]
+ },
+ {
+  "tr": "Meta kurulum",
+  "src": [
+   "Meta.swift:169"
+  ]
+ },
+ {
+  "tr": "Meta kurulum ölçümü yeni sürümle başlar. O zamana kadar Meta kurulum maliyeti gösterilmez; karma maliyet harcama olunca hesaplanır.",
+  "src": [
+   "Meta.swift:148"
+  ]
+ },
+ {
+  "tr": "Meta reklamları",
+  "src": [
+   "Setup.swift:771"
+  ]
+ },
+ {
+  "tr": "Meta satış",
+  "src": [
+   "Meta.swift:180"
+  ]
+ },
+ {
+  "tr": "Meta token'ı reddetti: {}. Token'a ads_read izni ver.",
+  "src": [
+   "engine/local/setup.ts:261"
+  ]
+ },
+ {
+  "tr": "Meta İşletme Ayarları > Sistem Kullanıcıları'nda bir sistem kullanıcısı oluştur, reklam hesabını ona ata, sonra Token oluştur de ve yalnız ads_read iznini seç.",
+  "src": [
+   "Setup.swift:775"
+  ]
+ },
+ {
+  "tr": "Model (boş: {})",
+  "src": [
+   "Setup.swift:828"
+  ]
+ },
+ {
+  "tr": "Mutlu anlarda puanlama isteği (SKStoreReview) göster, puan sayısını büyüt.",
+  "src": [
+   "engine/src/diagnose.ts:268"
+  ]
+ },
+ {
+  "tr": "Mülkleri getir",
+  "src": [
+   "Setup.swift:764"
+  ]
+ },
+ {
+  "tr": "NEREDEN GELİYORLAR · BUGÜN",
+  "src": [
+   "SourcesView.swift:44"
+  ]
+ },
+ {
+  "tr": "Neden aksıyor",
+  "src": [
+   "Detail.swift:390"
+  ]
+ },
+ {
+  "tr": "Nereden geldiğini bul, o kanala daha çok içerik koy.",
+  "src": [
+   "engine/src/diagnose.ts:119"
+  ]
+ },
+ {
+  "tr": "Net gelir",
+  "src": [
+   "MetricDetail.swift:33",
+   "TodayHistory.swift:36",
+   "engine/src/diagnose.ts:162"
+  ]
+ },
+ {
+  "tr": "Net gelir ($)",
+  "src": [
+   "Detail.swift:128"
+  ]
+ },
+ {
+  "tr": "Net gelir 7g",
+  "src": [
+   "Detail.swift:140",
+   "Views.swift:647"
+  ]
+ },
+ {
+  "tr": "Net gelir bugün",
+  "src": [
+   "Detail.swift:139"
+  ]
+ },
+ {
+  "tr": "Net gelir dün",
+  "src": [
+   "Detail.swift:139"
+  ]
+ },
+ {
+  "tr": "Net gelir {} arttı ({} → {})",
+  "src": [
+   "engine/src/diagnose.ts:241"
+  ]
+ },
+ {
+  "tr": "Net gelir {} düştü ({} → {})",
+  "src": [
+   "engine/src/diagnose.ts:240"
+  ]
+ },
+ {
+  "tr": "Net gelir · 7 gün",
+  "src": [
+   "Views.swift:161"
+  ]
+ },
+ {
+  "tr": "Neyi değiştirdiysen not al ve sabitle.",
+  "src": [
+   "engine/src/diagnose.ts:230"
+  ]
+ },
+ {
+  "tr": "Normal: son {} günün aynı saatindeki değerlerin ortancası, tek günlük sıçramalar etkilemez.",
+  "src": [
+   "MetricDetail.swift:145"
+  ]
+ },
+ {
+  "tr": "Normalin %{}'i. Sunucu, giriş akışı ya da takip kodu bozulmuş olabilir.",
+  "src": [
+   "engine/src/anomaly.ts:94"
+  ]
+ },
+ {
+  "tr": "Normalin {} katı.",
+  "src": [
+   "engine/src/anomaly.ts:116"
+  ]
+ },
+ {
+  "tr": "Normalin {} katı. Kaynağı kontrol et: reklam, paylaşım, bot ya da mağaza öne çıkarması olabilir.",
+  "src": [
+   "engine/src/anomaly.ts:93"
+  ]
+ },
+ {
+  "tr": "Olaylar (7 gün, kişi)",
+  "src": [
+   "Detail.swift:317"
+  ]
+ },
+ {
+  "tr": "Ollama adresi (boş: http://127.0.0.1:11434)",
+  "src": [
+   "Setup.swift:825"
+  ]
+ },
+ {
+  "tr": "Ollama'ya ulaşılamadı ({}). Ollama'yı kurup açtığından emin ol.",
+  "src": [
+   "engine/src/ai.ts:72"
+  ]
+ },
+ {
+  "tr": "Ollama'yı indir",
+  "src": [
+   "Setup.swift:923"
+  ]
+ },
+ {
+  "tr": "Ollama'yı kur, aç ve terminalde \"ollama pull llama3.1\" çalıştır. Ücretsiz; Ollama bu Mac'te çalıştığı sürece hiçbir veri dışarı çıkmaz. Not kalitesi bulut modellerinden düşük olabilir.",
+  "src": [
+   "Setup.swift:922"
+  ]
+ },
+ {
+  "tr": "Onboarding'in sonunda paywall'u mutlaka göster, deneme süresini büyük yaz ('3 gün ücretsiz'), kapatma tuşunu gecikmeli göster.",
+  "src": [
+   "engine/src/diagnose.ts:212"
+  ]
+ },
+ {
+  "tr": "OpenAI Platform'da API keys bölümünden anahtar oluştur. Rakamların ve yorum metinlerin analiz için OpenAI'a gider, ücreti senin hesabından düşer.",
+  "src": [
+   "Setup.swift:916"
+  ]
+ },
+ {
+  "tr": "OpenAI'ı aç",
+  "src": [
+   "Setup.swift:917"
+  ]
+ },
+ {
+  "tr": "Oyun",
+  "src": [
+   "Detail.swift:94",
+   "Setup.swift:721"
+  ]
+ },
+ {
+  "tr": "Paneli aç",
+  "src": [
+   "App.swift:154",
+   "Setup.swift:599"
+  ]
+ },
+ {
+  "tr": "Panelin üst barındaki dişli simgesinden Bağlantılar'ı açabilirsin. Boş kutulardaki ve ürün detayındaki Bağla düğmeleri de seni doğrudan ilgili yere götürür.",
+  "src": [
+   "Setup.swift:942"
+  ]
+ },
+ {
+  "tr": "Para değerlerini gizle",
+  "src": [
+   "Privacy.swift:19"
+  ]
+ },
+ {
+  "tr": "Para değerlerini göster",
+  "src": [
+   "Privacy.swift:19"
+  ]
+ },
+ {
+  "tr": "Paywall dönüşüm",
+  "src": [
+   "Detail.swift:142"
+  ]
+ },
+ {
+  "tr": "Paywall gören 7g",
+  "src": [
+   "Detail.swift:142"
+  ]
+ },
+ {
+  "tr": "Paywall ve fiyat bu kitleye oturmuş.",
+  "src": [
+   "engine/src/diagnose.ts:221"
+  ]
+ },
+ {
+  "tr": "Paywall'a ulaşan az, ya da deneme teklifi görünmüyor/çekici değil.",
+  "src": [
+   "engine/src/diagnose.ts:211"
+  ]
+ },
+ {
+  "tr": "Paywall'a ulaşılmıyor ya da teklif çekici değil; az sayıda kurulumla bu normal de olabilir.",
+  "src": [
+   "engine/src/diagnose.ts:200"
+  ]
+ },
+ {
+  "tr": "Paywall'da ne alacağını net yaz, ilk günlerde değer gösteren bildirim gönder.",
+  "src": [
+   "engine/src/diagnose.ts:246"
+  ]
+ },
+ {
+  "tr": "Paywall'dan önce bir 'aha' anı yaşat (ilk sonuç/ilk kombin). Yıllık paketi aylık karşılığıyla göster, ülkeye göre fiyat dene.",
+  "src": [
+   "engine/src/diagnose.ts:219"
+  ]
+ },
+ {
+  "tr": "Paywall'u bu hafta {} kişi gördü, sadece {}% aldı. Fiyatı ya da ilk ekranı A/B test et.",
+  "src": [
+   "engine/src/buddy.ts:67"
+  ]
+ },
+ {
+  "tr": "Paywall'u kaç kişinin gördüğünü bilmiyorum",
+  "src": [
+   "engine/src/diagnose.ts:280"
+  ]
+ },
+ {
+  "tr": "Paywall'un yeni kullanıcıya gösterildiğini kendin sıfırdan kurarak dene; ücretsiz deneme ekle.",
+  "src": [
+   "engine/src/diagnose.ts:201"
+  ]
+ },
+ {
+  "tr": "Play Console'da Kullanıcılar ve izinler > Yeni kullanıcı davet et. Şu e-postayı yapıştır, Hesap izinleri'nde \"Uygulama bilgilerini görüntüleme ve toplu rapor indirme\" ile \"Finansal verileri görüntüleme\"yi işaretle.",
+  "src": [
+   "Setup.swift:680"
+  ]
+ },
+ {
+  "tr": "Play Console'u aç",
+  "src": [
+   "Setup.swift:681"
+  ]
+ },
+ {
+  "tr": "Play Console'un herhangi bir sayfasındayken tarayıcının adres çubuğundaki adresi kopyala ve buraya yapıştır. Pulse rapor deposunu bu adresten bulur.",
+  "src": [
+   "Setup.swift:683"
+  ]
+ },
+ {
+  "tr": "Play araması",
+  "src": [
+   "AcquisitionView.swift:46"
+  ]
+ },
+ {
+  "tr": "Play edinme kaynakları",
+  "src": [
+   "engine/src/sources.ts:29"
+  ]
+ },
+ {
+  "tr": "Play edinme raporu henüz yok",
+  "src": [
+   "engine/src/connectors/acquisition.ts:165"
+  ]
+ },
+ {
+  "tr": "Play keşfet (öneriler, listeler)",
+  "src": [
+   "AcquisitionView.swift:47"
+  ]
+ },
+ {
+  "tr": "Play mağaza sayfası edinimleri, Google birkaç gün gecikmeli verir.",
+  "src": [
+   "AcquisitionView.swift:67"
+  ]
+ },
+ {
+  "tr": "Proje oluştur",
+  "src": [
+   "Setup.swift:672"
+  ]
+ },
+ {
+  "tr": "Puan · 30 gün",
+  "src": [
+   "Views.swift:136"
+  ]
+ },
+ {
+  "tr": "Pulse bağlandı. Önemli uyarılar buraya gelecek.",
+  "src": [
+   "engine/local/setup.ts:305"
+  ]
+ },
+ {
+  "tr": "Pulse günde en fazla bir kez egeyildizli.com'dan en son sürüm numarasını okur. Bu istekte senin hiçbir verin yoktur; her internet isteğinde olduğu gibi sunucu yalnız IP adresini görür. Yeni sürüm varsa panelin üstünde haber verir, kendiliğinden hiçbir şey indirmez.",
+  "src": [
+   "About.swift:74"
+  ]
+ },
+ {
+  "tr": "Pulse kimlerle konuşur",
+  "src": [
+   "About.swift:65"
+  ]
+ },
+ {
+  "tr": "Pulse sayacı: çerezsiz, IP ve kişisel veri tutulmaz. Oturumun ilk sayfası 1 ziyaret sayılır.",
+  "src": [
+   "AcquisitionView.swift:146"
+  ]
+ },
+ {
+  "tr": "Pulse {} çıktı",
+  "src": [
+   "Update.swift:123"
+  ]
+ },
+ {
+  "tr": "Pulse'ın verilerini tutan bir sunucu yok. Kullanım verisi, hata raporu ya da bağladığın hesaplardan hiçbir bilgi yayıncıya (Appxiom Spark) gönderilmez.",
+  "src": [
+   "About.swift:63"
+  ]
+ },
+ {
+  "tr": "Pulse, App Store ve Google Play hesaplarına bağlanır. İndirmeleri, geliri, yorumları ve sorunları ekranının sağ kenarında, her an bir bakışta gösterir.",
+  "src": [
+   "Setup.swift:611"
+  ]
+ },
+ {
+  "tr": "REKLAM HARCAMASI · BUGÜN",
+  "src": [
+   "Meta.swift:357"
+  ]
+ },
+ {
+  "tr": "ROAS (Meta, alt sınır)",
+  "src": [
+   "Meta.swift:177"
+  ]
+ },
+ {
+  "tr": "ROAS (önce/sonra)",
+  "src": [
+   "Meta.swift:288"
+  ]
+ },
+ {
+  "tr": "ROAS, deneme başı ve abone başı yalnız Meta'nın reklama atfettiği olaylardan hesaplanır (RevenueCat satışları Meta'ya gider); organik kullanıcılar reklama yazılmaz. * Tüm kurulum ve tüm gelir organik dahil her şeydir, reklam başarısı olarak okunmaz. Veri yalnız okunur, kampanyalara dokunulmaz.",
+  "src": [
+   "Meta.swift:111"
+  ]
+ },
+ {
+  "tr": "Rakamlar",
+  "src": [
+   "Detail.swift:35"
+  ]
+ },
+ {
+  "tr": "Reklam",
+  "src": [
+   "Detail.swift:36"
+  ]
+ },
+ {
+  "tr": "Reklam dün",
+  "src": [
+   "Detail.swift:143",
+   "Views.swift:639"
+  ]
+ },
+ {
+  "tr": "Reklam geliri ($)",
+  "src": [
+   "Detail.swift:133"
+  ]
+ },
+ {
+  "tr": "Reklam geliri görünmüyor",
+  "src": [
+   "engine/src/diagnose.ts:282"
+  ]
+ },
+ {
+  "tr": "Reklam harcaması başlayınca burada önce/sonra kıyası görünür.",
+  "src": [
+   "Meta.swift:294"
+  ]
+ },
+ {
+  "tr": "Reklam ve yönlendirme",
+  "src": [
+   "AcquisitionView.swift:48"
+  ]
+ },
+ {
+  "tr": "Reklam verisi bir sonraki güncellemede gelir (15 dakikada bir).",
+  "src": [
+   "Meta.swift:305"
+  ]
+ },
+ {
+  "tr": "Reklam yok",
+  "src": [
+   "Setup.swift:780"
+  ]
+ },
+ {
+  "tr": "Reklam {} başladı · {} tam gün",
+  "src": [
+   "Meta.swift:272"
+  ]
+ },
+ {
+  "tr": "Reklam {} başladı, henüz tam gün yok (bugünle tahmin, güvenilmez).",
+  "src": [
+   "Meta.swift:271"
+  ]
+ },
+ {
+  "tr": "Reklam {} başladı. İlk tam gün bitince (yarın) burada reklamdan önceki 14 günle kıyas görünür; yarım günle kıyas yanıltır.",
+  "src": [
+   "Meta.swift:267"
+  ]
+ },
+ {
+  "tr": "Reklamdan önce / sonra",
+  "src": [
+   "Meta.swift:264"
+  ]
+ },
+ {
+  "tr": "Reklamlar · 30 gün",
+  "src": [
+   "Meta.swift:302"
+  ]
+ },
+ {
+  "tr": "RevenueCat Paywalls kullanılmıyor. Paywall gösterilince RevenueCat'e ya da Firebase Analytics'e olay gönder, gör/al oranı çıksın.",
+  "src": [
+   "engine/src/diagnose.ts:280"
+  ]
+ },
+ {
+  "tr": "RevenueCat anahtarı reddetti. Proje ayarlarındaki API Keys bölümünden v2 'Secret' anahtar oluştur (sk_ ile başlar).",
+  "src": [
+   "engine/local/setup.ts:108"
+  ]
+ },
+ {
+  "tr": "RevenueCat bağla, aboneleri gör",
+  "src": [
+   "Views.swift:166"
+  ]
+ },
+ {
+  "tr": "RevenueCat hatası ({}).",
+  "src": [
+   "engine/local/setup.ts:109"
+  ]
+ },
+ {
+  "tr": "RevenueCat olayları internetten gönderir; Mac'in buna doğrudan açık değildir. Bunun için kendi tünelini (Cloudflare Tunnel ya da ngrok) kurman gerekir. Tünel yalnız Pulse'ın bu iş için açtığı portu dışarı açar, gizli anahtarı bilmeyen hiçbir şey gönderemez.",
+  "src": [
+   "Setup.swift:839"
+  ]
+ },
+ {
+  "tr": "RevenueCat'i aç",
+  "src": [
+   "Setup.swift:751",
+   "Setup.swift:854"
+  ]
+ },
+ {
+  "tr": "RevenueCat'te her proje için Integrations > Webhooks > Add. URL ve Authorization alanına aşağıdakileri yapıştır.",
+  "src": [
+   "Setup.swift:853"
+  ]
+ },
+ {
+  "tr": "RevenueCat'te projeyi aç > Project settings > API keys > + New secret API key. Sürüm v2, izinler: Charts metrics ve Project configuration için Read only.",
+  "src": [
+   "Setup.swift:750"
+  ]
+ },
+ {
+  "tr": "RevenueCat'te v2 'Secret' anahtar gerekli (sk_ ile başlar). Public anahtar (appl_/goog_) çalışmaz.",
+  "src": [
+   "engine/local/setup.ts:230"
+  ]
+ },
+ {
+  "tr": "RevenueCat, Stripe ve web siten için ziyaretçi sayısı.",
+  "src": [
+   "Setup.swift:616"
+  ]
+ },
+ {
+  "tr": "Saat saat kayıt yeni başladı. Dün bu saatle kıyas {}, son 7 günün normaliyle kıyas {} itibarıyla çıkar.",
+  "src": [
+   "MetricDetail.swift:167"
+  ]
+ },
+ {
+  "tr": "Sakin gidiyor, olağan dışı bir şey yok.",
+  "src": [
+   "engine/src/buddy.ts:96"
+  ]
+ },
+ {
+  "tr": "Satıcı numarası (önerilir)",
+  "src": [
+   "Setup.swift:653"
+  ]
+ },
+ {
+  "tr": "Satıcı numarası doğrulanamadı; satış raporu atlandı. Sonra Bağlantılar'dan düzeltebilirsin.",
+  "src": [
+   "Setup.swift:205"
+  ]
+ },
+ {
+  "tr": "Satıcı numarası girilmedi: indirme ve gelir sayıları gelmez, yorumlar ve kullanım verisi gelir.",
+  "src": [
+   "Setup.swift:205"
+  ]
+ },
+ {
+  "tr": "Satış",
+  "src": [
+   "TodayHistory.swift:35",
+   "engine/src/diagnose.ts:130"
+  ]
+ },
+ {
+  "tr": "Satış bugün",
+  "src": [
+   "Views.swift:642"
+  ]
+ },
+ {
+  "tr": "Satış gelen kaynağa yüklen.",
+  "src": [
+   "engine/src/diagnose.ts:141"
+  ]
+ },
+ {
+  "tr": "Satış, deneme ve iptali saniyesinde görürsün. Olmadan da RevenueCat verisi 5 dakikada bir gelir.",
+  "src": [
+   "Setup.swift:837"
+  ]
+ },
+ {
+  "tr": "Sayaç kurulmadan önce",
+  "src": [
+   "SiteSourcesView.swift:32"
+  ]
+ },
+ {
+  "tr": "Sayaç {} tarihinde kuruldu, öncesi boş.",
+  "src": [
+   "SourcesView.swift:177"
+  ]
+ },
+ {
+  "tr": "Sayfa görüntüleme",
+  "src": [
+   "engine/src/diagnose.ts:110"
+  ]
+ },
+ {
+  "tr": "Sayfayı aç",
+  "src": [
+   "Setup.swift:643",
+   "Setup.swift:655"
+  ]
+ },
+ {
+  "tr": "Sağlık nöbeti",
+  "src": [
+   "engine/src/sources.ts:23"
+  ]
+ },
+ {
+  "tr": "Search Console'da tıklama ve sıralamaya bak; düşen sayfayı bul. Düzenli içerik ve paylaşım planı kur.",
+  "src": [
+   "engine/src/diagnose.ts:116"
+  ]
+ },
+ {
+  "tr": "Servis hesabı JSON dosyasını buraya sürükle",
+  "src": [
+   "Setup.swift:678"
+  ]
+ },
+ {
+  "tr": "Servis hesabı hiçbir Analytics mülkünü göremiyor. Analytics'te Yönetici > Mülk erişimi'nden bu e-postayı Görüntüleyici olarak ekle.",
+  "src": [
+   "engine/local/setup.ts:278"
+  ]
+ },
+ {
+  "tr": "Servis hesabı oluştur",
+  "src": [
+   "Setup.swift:677"
+  ]
+ },
+ {
+  "tr": "Servis hesabı oluştur. Rol vermene gerek yok. Sonra hesabın Anahtarlar sekmesinde Anahtar ekle > JSON seç ve inen dosyayı aşağıya sürükle.",
+  "src": [
+   "Setup.swift:676"
+  ]
+ },
+ {
+  "tr": "Servis hesabı rapor deposunu henüz göremiyor. Play Console'da kullanıcı olarak davet ettiğinden emin ol. Davet yeniyse Google'ın izni işlemesi 24 saate kadar sürebilir; panel kendisi tekrar dener.",
+  "src": [
+   "engine/local/setup.ts:79"
+  ]
+ },
+ {
+  "tr": "Site bugün uçuyor 🔥 Ziyaret normalin {} hızında. Nereden geldiğine bak, o kanalı besle.",
+  "src": [
+   "engine/src/buddy.ts:43"
+  ]
+ },
+ {
+  "tr": "Site site",
+  "src": [
+   "SourcesView.swift:182"
+  ]
+ },
+ {
+  "tr": "Site trafiği yerinde ama mağazadan gelen azaldı: öne çıkarma/kategori sıralaması bitti, anahtar kelime sıralaması kaydı ya da reklam kapandı.",
+  "src": [
+   "engine/src/diagnose.ts:175"
+  ]
+ },
+ {
+  "tr": "Site ve mağaza birlikte düştü: bir kampanyanın ya da viral paylaşımın etkisi bitmiş, genel ilgi azalmış.",
+  "src": [
+   "engine/src/diagnose.ts:176"
+  ]
+ },
+ {
+  "tr": "Site ziyaretçisi",
+  "src": [
+   "Detail.swift:130",
+   "engine/src/diagnose.ts:156"
+  ]
+ },
+ {
+  "tr": "Site {} ziyaret aldı ama sadece {} kurulum",
+  "src": [
+   "engine/src/diagnose.ts:192"
+  ]
+ },
+ {
+  "tr": "Siteden mağazaya geçiş yok: indirme butonu görünmüyor, ya da gelenler hedef kitle değil (bot, alakasız arama).",
+  "src": [
+   "engine/src/diagnose.ts:193"
+  ]
+ },
+ {
+  "tr": "Siten Cloudflare'deyse günlük ziyaretçi ve sitenin açık olup olmadığı.",
+  "src": [
+   "Setup.swift:800"
+  ]
+ },
+ {
+  "tr": "Siteni bağla, ziyaretçiyi gör",
+  "src": [
+   "Views.swift:140"
+  ]
+ },
+ {
+  "tr": "Sitenin kendi sayacı: çerezsiz, kişisel veri yok. Kayıt ve alıcı, kişinin siteye ilk geldiği kaynağa yazılır.",
+  "src": [
+   "SiteSourcesView.swift:95"
+  ]
+ },
+ {
+  "tr": "Siteye GA4 ya da Cloudflare Web Analytics ekle; sayfa bazlı çıkış ve kaynak gelsin.",
+  "src": [
+   "engine/src/diagnose.ts:147"
+  ]
+ },
+ {
+  "tr": "Siteye bugün kimse uğramıyor, normalin {}'i kadar ziyaret. Reklam, SEO ya da DNS bozulmuş olabilir.",
+  "src": [
+   "engine/src/buddy.ts:45"
+  ]
+ },
+ {
+  "tr": "Son 1 saat",
+  "src": [
+   "Detail.swift:146",
+   "Views.swift:642"
+  ]
+ },
+ {
+  "tr": "Son 24 saatte {} tane 1-2 yıldız geldi. Yorumları oku, ortak şikayet var mı bak.",
+  "src": [
+   "engine/src/buddy.ts:88"
+  ]
+ },
+ {
+  "tr": "Son 3 günde uyarı yok",
+  "src": [
+   "Views.swift:887"
+  ]
+ },
+ {
+  "tr": "Son 30 gün",
+  "src": [
+   "Detail.swift:238"
+  ]
+ },
+ {
+  "tr": "Son 7 gün ({}), önceki 7 günle kıyas",
+  "src": [
+   "Detail.swift:372"
+  ]
+ },
+ {
+  "tr": "Son rapor {} tarihli, {} gün eski. Mağaza raporu gelmiyor olabilir.",
+  "src": [
+   "SourcesView.swift:257"
+  ]
+ },
+ {
+  "tr": "Son sürümde satın alma akışını kendin dene; RevenueCat'te ürünlerin 'aktif' olduğunu kontrol et.",
+  "src": [
+   "engine/src/diagnose.ts:232"
+  ]
+ },
+ {
+  "tr": "Son {} yorum ortalaması {} ({} kötü)",
+  "src": [
+   "engine/src/diagnose.ts:267"
+  ]
+ },
+ {
+  "tr": "Sorunlu ürün kaydı bugünden itibaren tutuluyor.",
+  "src": [
+   "TodayHistory.swift:181"
+  ]
+ },
+ {
+  "tr": "Sorunlu ürün kaydı {} tarihinden beri tutuluyor.",
+  "src": [
+   "TodayHistory.swift:181"
+  ]
+ },
+ {
+  "tr": "Sorunlu ürünler",
+  "src": [
+   "Views.swift:462"
+  ]
+ },
+ {
+  "tr": "Stripe anahtarı reddetti ya da 'Balance: Read' izni yok. Kısıtlı anahtarda Balance ve Charges için Read ver.",
+  "src": [
+   "engine/local/setup.ts:239"
+  ]
+ },
+ {
+  "tr": "Stripe'ta Geliştiriciler > API anahtarları > Kısıtlı anahtar oluştur. Balance ve Charges için Read ver.",
+  "src": [
+   "Setup.swift:786"
+  ]
+ },
+ {
+  "tr": "Stripe'ı aç",
+  "src": [
+   "Setup.swift:787"
+  ]
+ },
+ {
+  "tr": "Stripe'ı hangi ürüne bağlayacağını seç.",
+  "src": [
+   "Setup.swift:333"
+  ]
+ },
+ {
+  "tr": "Stripe, {} ürününe bağlandı.",
+  "src": [
+   "Setup.swift:338"
+  ]
+ },
+ {
+  "tr": "Taban: reklamdan önceki 14 günün ortanca günü (tek günlük sıçramalar bozmaz). Kaynak RevenueCat, iPhone takip izninden bağımsız. Deneme 3 gün sonra ücretliye döndüğü için gelir birkaç gün geriden gelir.",
+  "src": [
+   "Meta.swift:290"
+  ]
+ },
+ {
+  "tr": "Telegram bot anahtarı geçersiz. BotFather'ın verdiği anahtarı olduğu gibi yapıştır.",
+  "src": [
+   "engine/local/setup.ts:301"
+  ]
+ },
+ {
+  "tr": "Terminalde tüneli başlat. Kalıcı adres için Cloudflare'de adlandırılmış tünel kurmanı öneririz; hızlı tünelin adresi her açılışta değişir.",
+  "src": [
+   "Setup.swift:844"
+  ]
+ },
+ {
+  "tr": "Teşhis",
+  "src": [
+   "Detail.swift:35"
+  ]
+ },
+ {
+  "tr": "Token çalışıyor ama hiçbir reklam hesabını göremiyor. Sistem kullanıcısına reklam hesabını ata.",
+  "src": [
+   "engine/local/setup.ts:262"
+  ]
+ },
+ {
+  "tr": "Tüm gelir*",
+  "src": [
+   "Meta.swift:182"
+  ]
+ },
+ {
+  "tr": "Tüm kurulum*",
+  "src": [
+   "Meta.swift:181"
+  ]
+ },
+ {
+  "tr": "Tüm uygulamaların tek panelde",
+  "src": [
+   "Setup.swift:610"
+  ]
+ },
+ {
+  "tr": "Tümü",
+  "src": [
+   "MetricDetail.swift:106",
+   "ReviewsDetail.swift:27",
+   "SourcesView.swift:141"
+  ]
+ },
+ {
+  "tr": "Tünelin verdiği https adresini yapıştır ve dene.",
+  "src": [
+   "Setup.swift:847"
+  ]
+ },
+ {
+  "tr": "Tıklama",
+  "src": [
+   "Meta.swift:165"
+  ]
+ },
+ {
+  "tr": "Uyarı",
+  "src": [
+   "TodayHistory.swift:39"
+  ]
+ },
+ {
+  "tr": "Uyarı geçmişi",
+  "src": [
+   "Detail.swift:76"
+  ]
+ },
+ {
+  "tr": "Uyarılar",
+  "src": [
+   "Views.swift:4"
+  ]
+ },
+ {
+  "tr": "Uygulama",
+  "src": [
+   "Detail.swift:98",
+   "Setup.swift:720"
+  ]
+ },
+ {
+  "tr": "Uygulama aboneliği hak edecek kadar sık kullanılmıyor ya da son sürüm bir şeyi bozdu.",
+  "src": [
+   "engine/src/diagnose.ts:249"
+  ]
+ },
+ {
+  "tr": "Uygulama ikonları için Apple'ın herkese açık arama servisi (itunes.apple.com): yalnız uygulamalarının mağaza kimlikleri gönderilir.",
+  "src": [
+   "About.swift:67"
+  ]
+ },
+ {
+  "tr": "Vazgeç",
+  "src": [
+   "About.swift:34"
+  ]
+ },
+ {
+  "tr": "Veri kaynakları",
+  "src": [
+   "Detail.swift:176"
+  ]
+ },
+ {
+  "tr": "Veri klasörünü göster",
+  "src": [
+   "About.swift:88"
+  ]
+ },
+ {
+  "tr": "Veri okunamadı: {}",
+  "src": [
+   "Model.swift:226"
+  ]
+ },
+ {
+  "tr": "Veri yüklenemedi.",
+  "src": [
+   "MetricDetail.swift:87",
+   "SourcesView.swift:122"
+  ]
+ },
+ {
+  "tr": "Veri {} tarihinden beri var, 30 gün henüz dolmadı.",
+  "src": [
+   "AcquisitionView.swift:89"
+  ]
+ },
+ {
+  "tr": "Veriler gecikmeli gelir",
+  "src": [
+   "Setup.swift:939"
+  ]
+ },
+ {
+  "tr": "Web",
+  "src": [
+   "Detail.swift:95",
+   "Views.swift:4",
+   "engine/src/connectors/rcwebhook.ts:24"
+  ]
+ },
+ {
+  "tr": "Web referrer",
+  "src": [
+   "AcquisitionView.swift:36"
+  ]
+ },
+ {
+  "tr": "Web satışların varsa günlük gelir ve satış sayısı.",
+  "src": [
+   "Setup.swift:784"
+  ]
+ },
+ {
+  "tr": "Web siteleri",
+  "src": [
+   "SourcesView.swift:166"
+  ]
+ },
+ {
+  "tr": "Web sitesi",
+  "src": [
+   "AcquisitionView.swift:11"
+  ]
+ },
+ {
+  "tr": "Web sitesi (Cloudflare)",
+  "src": [
+   "Setup.swift:799"
+  ]
+ },
+ {
+  "tr": "Web sitesinden",
+  "src": [
+   "AcquisitionView.swift:36"
+  ]
+ },
+ {
+  "tr": "Yalnız senin bağladığın servisler: App Store Connect, Google Play, Google Analytics, RevenueCat, Stripe, Cloudflare, Meta. İstekler doğrudan bu Mac'ten o servislere gider.",
+  "src": [
+   "About.swift:66"
+  ]
+ },
+ {
+  "tr": "Yayın",
+  "src": [
+   "engine/src/diagnose.ts:166"
+  ]
+ },
+ {
+  "tr": "Yayın öncesi",
+  "src": [
+   "engine/src/diagnose.ts:291"
+  ]
+ },
+ {
+  "tr": "Yayın öncesi bekleme listesi ve TestFlight topluluğu topla; açılış günü için hazır kitle olsun.",
+  "src": [
+   "engine/src/diagnose.ts:166"
+  ]
+ },
+ {
+  "tr": "Yeni abone",
+  "src": [
+   "Detail.swift:128",
+   "engine/src/diagnose.ts:161"
+  ]
+ },
+ {
+  "tr": "Yeni abone 7g",
+  "src": [
+   "Detail.swift:141",
+   "Views.swift:648"
+  ]
+ },
+ {
+  "tr": "Yeni abone {} arttı ({} → {})",
+  "src": [
+   "engine/src/diagnose.ts:230"
+  ]
+ },
+ {
+  "tr": "Yeni abone {} düştü ({} → {})",
+  "src": [
+   "engine/src/diagnose.ts:232"
+  ]
+ },
+ {
+  "tr": "Yeni bir kanal ya da sıralama işe yaradı.",
+  "src": [
+   "engine/src/diagnose.ts:119"
+  ]
+ },
+ {
+  "tr": "Yeni bir kanal, sıralama ya da paylaşım çalıştı.",
+  "src": [
+   "engine/src/diagnose.ts:180"
+  ]
+ },
+ {
+  "tr": "Yeni deneme",
+  "src": [
+   "Detail.swift:129"
+  ]
+ },
+ {
+  "tr": "Yeni deneme {} düştü ({} → {})",
+  "src": [
+   "engine/src/diagnose.ts:236"
+  ]
+ },
+ {
+  "tr": "Yeni gelen azaldığı için toplam aktif de düştü; mevcut kullanıcı kaybı ayrıca ölçülemiyor.",
+  "src": [
+   "engine/src/diagnose.ts:255"
+  ]
+ },
+ {
+  "tr": "Yeni gelen yerinde ama mevcut kullanıcı bırakıyor: son sürüm, bildirimler ya da sunucu sorunu olabilir.",
+  "src": [
+   "engine/src/diagnose.ts:255"
+  ]
+ },
+ {
+  "tr": "Yeni kayıt",
+  "src": [
+   "Views.swift:638"
+  ]
+ },
+ {
+  "tr": "Yeni kayıt bugün",
+  "src": [
+   "Detail.swift:146"
+  ]
+ },
+ {
+  "tr": "Yeni sürümleri denetle",
+  "src": [
+   "About.swift:75"
+  ]
+ },
+ {
+  "tr": "Yenileme ya da tek seferlik satın alma.",
+  "src": [
+   "engine/src/connectors/revenuecat.ts:86"
+  ]
+ },
+ {
+  "tr": "Yerel motor başlıyor…",
+  "src": [
+   "Model.swift:226"
+  ]
+ },
+ {
+  "tr": "Yerel motora ulaşılamadı. Uygulamayı kapatıp yeniden aç.",
+  "src": [
+   "Engine.swift:191"
+  ]
+ },
+ {
+  "tr": "Yerel port {} açılamadı. Başka bir uygulama kullanıyor olabilir.",
+  "src": [
+   "Setup.swift:418"
+  ]
+ },
+ {
+  "tr": "Yorum ortalaması {}",
+  "src": [
+   "engine/src/diagnose.ts:268"
+  ]
+ },
+ {
+  "tr": "Yönlendiren siteler · tüm zamanlar",
+  "src": [
+   "SourcesView.swift:218"
+  ]
+ },
+ {
+  "tr": "Ziyaret bugün",
+  "src": [
+   "Detail.swift:146",
+   "Views.swift:642"
+  ]
+ },
+ {
+  "tr": "Ziyaret {} arttı ({})",
+  "src": [
+   "engine/src/diagnose.ts:119"
+  ]
+ },
+ {
+  "tr": "Ziyaret {} düştü ({} → {})",
+  "src": [
+   "engine/src/diagnose.ts:114"
+  ]
+ },
+ {
+  "tr": "Ziyaretçi",
+  "src": [
+   "engine/src/diagnose.ts:109"
+  ]
+ },
+ {
+  "tr": "Ziyaretçi ödeme adımına gelmiyor ya da fiyat/güven yüzünden vazgeçiyor. Ücretsiz deneme yoksa insanlar sonucu görmeden para vermiyor.",
+  "src": [
+   "engine/src/diagnose.ts:136"
+  ]
+ },
+ {
+  "tr": "Ziyaretçiler ürünü anlıyor ama ödemeye ikna olmuyor.",
+  "src": [
+   "engine/src/diagnose.ts:140"
+  ]
+ },
+ {
+  "tr": "[çğıöşüÇĞİÖŞÜ]",
+  "src": [
+   "Loc.swift:95"
+  ]
+ },
+ {
+  "tr": "]+/g, ",
+  "src": [
+   "engine/src/connectors/meta.ts:47"
+  ]
+ },
+ {
+  "tr": "abone",
+  "src": [
+   "engine/src/index.ts:269"
+  ]
+ },
+ {
+  "tr": "bağlı",
+  "src": [
+   "Detail.swift:185"
+  ]
+ },
+ {
+  "tr": "bağlı değil",
+  "src": [
+   "Detail.swift:185",
+   "Views.swift:365"
+  ]
+ },
+ {
+  "tr": "bilinmeyen sağlayıcı",
+  "src": [
+   "engine/src/ai.ts:61"
+  ]
+ },
+ {
+  "tr": "bilinmeyen ürün ya da olay",
+  "src": [
+   "engine/src/connectors/rcwebhook.ts:29"
+  ]
+ },
+ {
+  "tr": "brüt {}",
+  "src": [
+   "MetricDetail.swift:268"
+  ]
+ },
+ {
+  "tr": "brüt {} · dün net {}",
+  "src": [
+   "Views.swift:162"
+  ]
+ },
+ {
+  "tr": "bugün",
+  "src": [
+   "SourcesView.swift:305",
+   "TrendChart.swift:29",
+   "Views.swift:790"
+  ]
+ },
+ {
+  "tr": "bugün +{} abone",
+  "src": [
+   "Views.swift:561"
+  ]
+ },
+ {
+  "tr": "bugün aktif",
+  "src": [
+   "engine/src/index.ts:268"
+  ]
+ },
+ {
+  "tr": "bugün ziyaret",
+  "src": [
+   "engine/src/index.ts:268"
+  ]
+ },
+ {
+  "tr": "bugün şu ana kadar",
+  "src": [
+   "MetricDetail.swift:135"
+  ]
+ },
+ {
+  "tr": "canlı kullanıcı",
+  "src": [
+   "engine/src/anomaly.ts:31"
+  ]
+ },
+ {
+  "tr": "dün",
+  "src": [
+   "Views.swift:791",
+   "engine/src/index.ts:268"
+  ]
+ },
+ {
+  "tr": "dün / 7g ort.",
+  "src": [
+   "Views.swift:131",
+   "Views.swift:145",
+   "Views.swift:156"
+  ]
+ },
+ {
+  "tr": "dün bu saat",
+  "src": [
+   "MetricDetail.swift:140",
+   "Views.swift:172",
+   "Views.swift:198"
+  ]
+ },
+ {
+  "tr": "dün bu saatte {}",
+  "src": [
+   "MetricDetail.swift:141"
+  ]
+ },
+ {
+  "tr": "dün gün toplamı {}",
+  "src": [
+   "MetricDetail.swift:152"
+  ]
+ },
+ {
+  "tr": "dün {}",
+  "src": [
+   "MetricDetail.swift:236",
+   "Views.swift:130",
+   "Views.swift:155"
+  ]
+ },
+ {
+  "tr": "erişim bekleniyor",
+  "src": [
+   "engine/src/connectors/play.ts:82"
+  ]
+ },
+ {
+  "tr": "finansal veri izni yok",
+  "src": [
+   "engine/src/connectors/playsales.ts:92"
+  ]
+ },
+ {
+  "tr": "gelir",
+  "src": [
+   "engine/src/anomaly.ts:38"
+  ]
+ },
+ {
+  "tr": "gerçek",
+  "src": [
+   "SourcesView.swift:186"
+  ]
+ },
+ {
+  "tr": "gerçek ziyaret · {}",
+  "src": [
+   "SourcesView.swift:170"
+  ]
+ },
+ {
+  "tr": "günlük kullanıcı",
+  "src": [
+   "engine/src/anomaly.ts:34"
+  ]
+ },
+ {
+  "tr": "günlük site ziyaretçisi",
+  "src": [
+   "engine/src/anomaly.ts:36"
+  ]
+ },
+ {
+  "tr": "hafta",
+  "src": [
+   "Views.swift:163"
+  ]
+ },
+ {
+  "tr": "hata",
+  "src": [
+   "Detail.swift:185"
+  ]
+ },
+ {
+  "tr": "hızlı çıkış",
+  "src": [
+   "Detail.swift:295"
+  ]
+ },
+ {
+  "tr": "iOS gelir",
+  "src": [
+   "engine/src/anomaly.ts:37"
+  ]
+ },
+ {
+  "tr": "iOS indirme",
+  "src": [
+   "Detail.swift:130",
+   "engine/src/anomaly.ts:33"
+  ]
+ },
+ {
+  "tr": "iOS indirme (son)",
+  "src": [
+   "Detail.swift:147"
+  ]
+ },
+ {
+  "tr": "ilk indirme",
+  "src": [
+   "AcquisitionView.swift:66",
+   "SourcesView.swift:119"
+  ]
+ },
+ {
+  "tr": "ilk veri bekleniyor",
+  "src": [
+   "Detail.swift:185"
+  ]
+ },
+ {
+  "tr": "iptal",
+  "src": [
+   "TodayHistory.swift:253"
+  ]
+ },
+ {
+  "tr": "kişi başı {} sayfa",
+  "src": [
+   "engine/src/diagnose.ts:110"
+  ]
+ },
+ {
+  "tr": "kurulanların",
+  "src": [
+   "engine/src/diagnose.ts:160",
+   "engine/src/diagnose.ts:161"
+  ]
+ },
+ {
+  "tr": "kurulum",
+  "src": [
+   "engine/src/anomaly.ts:39"
+  ]
+ },
+ {
+  "tr": "kurulum başı {}",
+  "src": [
+   "engine/src/diagnose.ts:162"
+  ]
+ },
+ {
+  "tr": "kurulum dün",
+  "src": [
+   "engine/src/index.ts:273"
+  ]
+ },
+ {
+  "tr": "kurulum yok",
+  "src": [
+   "Meta.swift:321"
+  ]
+ },
+ {
+  "tr": "kurulum {} gün önce",
+  "src": [
+   "engine/src/index.ts:273"
+  ]
+ },
+ {
+  "tr": "normal bu saat",
+  "src": [
+   "MetricDetail.swift:139",
+   "MetricDetail.swift:144",
+   "engine/src/metric.ts:93"
+  ]
+ },
+ {
+  "tr": "normale göre",
+  "src": [
+   "MetricDetail.swift:140"
+  ]
+ },
+ {
+  "tr": "rapor açılamadı",
+  "src": [
+   "engine/src/connectors/playsales.ts:95"
+  ]
+ },
+ {
+  "tr": "rapor talebi açıldı, veri 1-2 gün içinde",
+  "src": [
+   "engine/src/connectors/acquisition.ts:80"
+  ]
+ },
+ {
+  "tr": "sa",
+  "src": [
+   "Setup.swift:224"
+  ]
+ },
+ {
+  "tr": "saatlik site ziyaretçisi",
+  "src": [
+   "engine/src/anomaly.ts:32"
+  ]
+ },
+ {
+  "tr": "satış",
+  "src": [
+   "TodayHistory.swift:253"
+  ]
+ },
+ {
+  "tr": "servis çöktü",
+  "src": [
+   "TodayHistory.swift:254"
+  ]
+ },
+ {
+  "tr": "site",
+  "src": [
+   "Detail.swift:203",
+   "Detail.swift:228",
+   "Setup.swift:799"
+  ]
+ },
+ {
+  "tr": "site:{}",
+  "src": [
+   "Setup.swift:272",
+   "Setup.swift:356"
+  ]
+ },
+ {
+  "tr": "son 1 saat {}",
+  "src": [
+   "Views.swift:144"
+  ]
+ },
+ {
+  "tr": "son rapor {}",
+  "src": [
+   "Views.swift:150"
+  ]
+ },
+ {
+  "tr": "son {} yorumun ortalaması",
+  "src": [
+   "ReviewsDetail.swift:37"
+  ]
+ },
+ {
+  "tr": "takip öncesi",
+  "src": [
+   "SiteSourcesView.swift:32"
+  ]
+ },
+ {
+  "tr": "uyarı",
+  "src": [
+   "TodayHistory.swift:254"
+  ]
+ },
+ {
+  "tr": "uyarı yok",
+  "src": [
+   "Views.swift:557"
+  ]
+ },
+ {
+  "tr": "veri yok",
+  "src": [
+   "Views.swift:821"
+  ]
+ },
+ {
+  "tr": "ya da seç",
+  "src": [
+   "Setup.swift:1053"
+  ]
+ },
+ {
+  "tr": "yeni abone",
+  "src": [
+   "TodayHistory.swift:253",
+   "engine/src/anomaly.ts:40"
+  ]
+ },
+ {
+  "tr": "yeni deneme",
+  "src": [
+   "TodayHistory.swift:253"
+  ]
+ },
+ {
+  "tr": "yeni kullanıcı",
+  "src": [
+   "engine/src/anomaly.ts:35"
+  ]
+ },
+ {
+  "tr": "yorum",
+  "src": [
+   "TodayHistory.swift:254"
+  ]
+ },
+ {
+  "tr": "yorum {}",
+  "src": [
+   "engine/src/connectors/play.ts:81"
+  ]
+ },
+ {
+  "tr": "ziyaretçinin",
+  "src": [
+   "engine/src/diagnose.ts:130"
+  ]
+ },
+ {
+  "tr": "zone erişimi yok",
+  "src": [
+   "engine/src/connectors/cloudflare.ts:41"
+  ]
+ },
+ {
+  "tr": "{} / kurulum",
+  "src": [
+   "Meta.swift:321"
+  ]
+ },
+ {
+  "tr": "{} abone",
+  "src": [
+   "App.swift:172"
+  ]
+ },
+ {
+  "tr": "{} abone · {} deneme",
+  "src": [
+   "Views.swift:171"
+  ]
+ },
+ {
+  "tr": "{} alıcı",
+  "src": [
+   "SiteSourcesView.swift:63"
+  ]
+ },
+ {
+  "tr": "{} bugün",
+  "src": [
+   "Meta.swift:251"
+  ]
+ },
+ {
+  "tr": "{} dakika kapalı kaldı.",
+  "src": [
+   "engine/src/connectors/health.ts:58"
+  ]
+ },
+ {
+  "tr": "{} dk",
+  "src": [
+   "Model.swift:321"
+  ]
+ },
+ {
+  "tr": "{} g",
+  "src": [
+   "Model.swift:323"
+  ]
+ },
+ {
+  "tr": "{} gerçek ziyaret",
+  "src": [
+   "SourcesView.swift:46"
+  ]
+ },
+ {
+  "tr": "{} günde toplam ",
+  "src": [
+   "TodayHistory.swift:169"
+  ]
+ },
+ {
+  "tr": "{} iptal",
+  "src": [
+   "Views.swift:489"
+  ]
+ },
+ {
+  "tr": "{} katı",
+  "src": [
+   "engine/src/buddy.ts:26"
+  ]
+ },
+ {
+  "tr": "{} kayıt",
+  "src": [
+   "SiteSourcesView.swift:62"
+  ]
+ },
+ {
+  "tr": "{} kişi denemede ama bu hafta yeni abone yok. Deneme bitişi hatırlatmasını kontrol et.",
+  "src": [
+   "engine/src/buddy.ts:80"
+  ]
+ },
+ {
+  "tr": "{} kişi · {} sn",
+  "src": [
+   "Detail.swift:300"
+  ]
+ },
+ {
+  "tr": "{} kurulum",
+  "src": [
+   "Meta.swift:320"
+  ]
+ },
+ {
+  "tr": "{} kurulum, ama kimse deneme ya da abonelik başlatmadı",
+  "src": [
+   "engine/src/diagnose.ts:199"
+  ]
+ },
+ {
+  "tr": "{} okunmamış",
+  "src": [
+   "Views.swift:877"
+  ]
+ },
+ {
+  "tr": "{} sa",
+  "src": [
+   "Model.swift:322"
+  ]
+ },
+ {
+  "tr": "{} satış",
+  "src": [
+   "Views.swift:490"
+  ]
+ },
+ {
+  "tr": "{} servis çalışmıyor",
+  "src": [
+   "Views.swift:553"
+  ]
+ },
+ {
+  "tr": "{} servis çalışıyor",
+  "src": [
+   "Views.swift:553"
+  ]
+ },
+ {
+  "tr": "{} servis çöktü",
+  "src": [
+   "Views.swift:496"
+  ]
+ },
+ {
+  "tr": "{} uyarı",
+  "src": [
+   "Views.swift:557"
+  ]
+ },
+ {
+  "tr": "{} uyarı ›",
+  "src": [
+   "Views.swift:482"
+  ]
+ },
+ {
+  "tr": "{} yanıt vermiyor (kod {}).",
+  "src": [
+   "engine/src/connectors/health.ts:47"
+  ]
+ },
+ {
+  "tr": "{} yeni abone",
+  "src": [
+   "Views.swift:487"
+  ]
+ },
+ {
+  "tr": "{} yeni deneme",
+  "src": [
+   "Views.swift:488"
+  ]
+ },
+ {
+  "tr": "{} yorum",
+  "src": [
+   "Views.swift:137",
+   "Views.swift:492"
+  ]
+ },
+ {
+  "tr": "{} ziyaret",
+  "src": [
+   "SiteSourcesView.swift:46"
+  ]
+ },
+ {
+  "tr": "{} ziyaret, 0 satış",
+  "src": [
+   "engine/src/diagnose.ts:135"
+  ]
+ },
+ {
+  "tr": "{} {} yeniden açık",
+  "src": [
+   "engine/src/connectors/health.ts:57"
+  ]
+ },
+ {
+  "tr": "{} {} çalışmıyor",
+  "src": [
+   "engine/src/connectors/health.ts:46"
+  ]
+ },
+ {
+  "tr": "{} · günlük",
+  "src": [
+   "TodayHistory.swift:167"
+  ]
+ },
+ {
+  "tr": "{} · yeniden indirme",
+  "src": [
+   "AcquisitionView.swift:41"
+  ]
+ },
+ {
+  "tr": "{} · {} gösterim · {} tık · CTR {}",
+  "src": [
+   "Meta.swift:324"
+  ]
+ },
+ {
+  "tr": "{} çalışmıyor, kullanıcılar şu an giremiyor. Hemen bak.",
+  "src": [
+   "engine/src/buddy.ts:34"
+  ]
+ },
+ {
+  "tr": "{} önce",
+  "src": [
+   "Meta.swift:141"
+  ]
+ },
+ {
+  "tr": "{} ürün sorunlu",
+  "src": [
+   "Views.swift:491"
+  ]
+ },
+ {
+  "tr": "{}/ping adresinden Pulse'a ulaşılamadı. Tünelin açık ve 127.0.0.1:{} adresine yönlendiriyor olmalı.",
+  "src": [
+   "engine/local/setup.ts:322"
+  ]
+ },
+ {
+  "tr": "{}: +{} satış",
+  "src": [
+   "engine/src/connectors/stripe.ts:82"
+  ]
+ },
+ {
+  "tr": "{}: +{} yeni abone 🎉{}",
+  "src": [
+   "engine/src/connectors/revenuecat.ts:77"
+  ]
+ },
+ {
+  "tr": "{}: +{} yeni deneme başladı",
+  "src": [
+   "engine/src/connectors/revenuecat.ts:94"
+  ]
+ },
+ {
+  "tr": "{}: Play'de {} yıldız yorum",
+  "src": [
+   "engine/src/connectors/play.ts:76"
+  ]
+ },
+ {
+  "tr": "{}: bir abonelik iptal edildi {}",
+  "src": [
+   "engine/src/connectors/rcwebhook.ts:52"
+  ]
+ },
+ {
+  "tr": "{}: bir kullanıcı paket değiştirdi {}",
+  "src": [
+   "engine/src/connectors/rcwebhook.ts:54"
+  ]
+ },
+ {
+  "tr": "{}: deneme aboneliğe döndü {} {}",
+  "src": [
+   "engine/src/connectors/rcwebhook.ts:49"
+  ]
+ },
+ {
+  "tr": "{}: dün {} {} ({}, normali ~{})",
+  "src": [
+   "engine/src/anomaly.ts:115"
+  ]
+ },
+ {
+  "tr": "{}: para geldi 💰 ${} brüt",
+  "src": [
+   "engine/src/connectors/revenuecat.ts:85"
+  ]
+ },
+ {
+  "tr": "{}: satın alma {} {}",
+  "src": [
+   "engine/src/connectors/rcwebhook.ts:51"
+  ]
+ },
+ {
+  "tr": "{}: sert düşüş, {} {} (normali ~{})",
+  "src": [
+   "engine/src/anomaly.ts:90"
+  ]
+ },
+ {
+  "tr": "{}: yeni abone {} {}",
+  "src": [
+   "engine/src/connectors/rcwebhook.ts:47"
+  ]
+ },
+ {
+  "tr": "{}: yeni deneme başladı {}",
+  "src": [
+   "engine/src/connectors/rcwebhook.ts:46"
+  ]
+ },
+ {
+  "tr": "{}: {} yıldız yorum ({})",
+  "src": [
+   "engine/src/connectors/asc.ts:140"
+  ]
+ },
+ {
+  "tr": "{}: ödeme sorunu, tahsilat başarısız {}",
+  "src": [
+   "engine/src/connectors/rcwebhook.ts:53"
+  ]
+ },
+ {
+  "tr": "· {} ürün",
+  "src": [
+   "Views.swift:533"
+  ]
+ },
+ {
+  "tr": "Çar",
+  "src": [
+   "TodayHistory.swift:187"
+  ]
+ },
+ {
+  "tr": "Çok kurulum var ama kişi başı para düşük; reklama para basarsan geri dönmez.",
+  "src": [
+   "engine/src/diagnose.ts:225"
+  ]
+ },
+ {
+  "tr": "Çöken servisler",
+  "src": [
+   "Views.swift:464"
+  ]
+ },
+ {
+  "tr": "Çıkış",
+  "src": [
+   "App.swift:164"
+  ]
+ },
+ {
+  "tr": "ÖNERİLEN",
+  "src": [
+   "Setup.swift:746"
+  ]
+ },
+ {
+  "tr": "Ödeme akışı çalışıyor.",
+  "src": [
+   "engine/src/diagnose.ts:141"
+  ]
+ },
+ {
+  "tr": "Ödeme duvarı değer anlatmadan geliyor ya da fiyat bu pazara pahalı.",
+  "src": [
+   "engine/src/diagnose.ts:218"
+  ]
+ },
+ {
+  "tr": "Önce bir Google servis hesabı anahtarı gerekli (Google Play adımındaki dosya da olur).",
+  "src": [
+   "engine/local/setup.ts:269"
+  ]
+ },
+ {
+  "tr": "Önce dış adresini (tünel adresi) gir.",
+  "src": [
+   "engine/local/setup.ts:320"
+  ]
+ },
+ {
+  "tr": "Önce yukarıdan RevenueCat'i bağla; webhook adresi ürün başına oluşur.",
+  "src": [
+   "Setup.swift:860"
+  ]
+ },
+ {
+  "tr": "Örnek şikayet: \"{}\"",
+  "src": [
+   "engine/src/diagnose.ts:267"
+  ]
+ },
+ {
+  "tr": "Ürün",
+  "src": [
+   "Setup.swift:789"
+  ]
+ },
+ {
+  "tr": "Ürün seç",
+  "src": [
+   "Setup.swift:790"
+  ]
+ },
+ {
+  "tr": "Ürün ürün",
+  "src": [
+   "MetricDetail.swift:226"
+  ]
+ },
+ {
+  "tr": "Ürün: {}",
+  "src": [
+   "engine/src/connectors/rcwebhook.ts:64"
+  ]
+ },
+ {
+  "tr": "Ürün: {} ({}). Veriler JSON:\n{}",
+  "src": [
+   "engine/src/analyst.ts:55"
+  ]
+ },
+ {
+  "tr": "Ürünlerin",
+  "src": [
+   "Setup.swift:544"
+  ]
+ },
+ {
+  "tr": "Üst bölümde tek cümle değer + tek belirgin buton koy; sayfa sonuna ilgili ürün/örnek bağlantıları ekle.",
+  "src": [
+   "engine/src/diagnose.ts:125"
+  ]
+ },
+ {
+  "tr": "Üçüncü taraf lisanslarını aç",
+  "src": [
+   "About.swift:82"
+  ]
+ },
+ {
+  "tr": "çalışıyor",
+  "src": [
+   "Setup.swift:838"
+  ]
+ },
+ {
+  "tr": "ölçüt $0,10",
+  "src": [
+   "engine/src/diagnose.ts:162"
+  ]
+ },
+ {
+  "tr": "ölçüt %{}",
+  "src": [
+   "engine/src/diagnose.ts:59"
+  ]
+ },
+ {
+  "tr": "ölçüt 1,5+",
+  "src": [
+   "engine/src/diagnose.ts:110"
+  ]
+ },
+ {
+  "tr": "önceki 0",
+  "src": [
+   "Detail.swift:458"
+  ]
+ },
+ {
+  "tr": "önceki güne",
+  "src": [
+   "MetricDetail.swift:261"
+  ]
+ },
+ {
+  "tr": "İLERİ DÜZEY",
+  "src": [
+   "Setup.swift:835"
+  ]
+ },
+ {
+  "tr": "İLK AÇILAN SAYFALAR (30 GÜN)",
+  "src": [
+   "AcquisitionView.swift:126",
+   "SiteSourcesView.swift:75"
+  ]
+ },
+ {
+  "tr": "İSTEĞE BAĞLI",
+  "src": [
+   "Setup.swift:770"
+  ]
+ },
+ {
+  "tr": "İade 7g",
+  "src": [
+   "Detail.swift:142"
+  ]
+ },
+ {
+  "tr": "İade oranı {} ({})",
+  "src": [
+   "engine/src/diagnose.ts:246"
+  ]
+ },
+ {
+  "tr": "İdare eder",
+  "src": [
+   "engine/src/diagnose.ts:292"
+  ]
+ },
+ {
+  "tr": "İleri düzey",
+  "src": [
+   "Setup.swift:836"
+  ]
+ },
+ {
+  "tr": "İlk 3 günde geri çağıran bildirim ve günlük alışkanlık yaratan bir özellik (widget, seri) ekle.",
+  "src": [
+   "engine/src/diagnose.ts:259"
+  ]
+ },
+ {
+  "tr": "İlk açılan sayfa",
+  "src": [
+   "SourcesView.swift:204"
+  ]
+ },
+ {
+  "tr": "İlk dönüşümü ücretsiz (filigranlı) ver, sonra ödeme iste. Ödeme butonunu ilk ekrana al, örnek çıktıları ve gerçek kullanıcı sayısını göster.",
+  "src": [
+   "engine/src/diagnose.ts:137"
+  ]
+ },
+ {
+  "tr": "İlk ekran ne sunduğunu hemen anlatmıyor ya da devamına götüren bağlantı yok.",
+  "src": [
+   "engine/src/diagnose.ts:124"
+  ]
+ },
+ {
+  "tr": "İncelemede",
+  "src": [
+   "Meta.swift:339"
+  ]
+ },
+ {
+  "tr": "İndir",
+  "src": [
+   "Update.swift:128"
+  ]
+ },
+ {
+  "tr": "İndirme ve gelir için gerekli. Ödemeler ve Finansal Raporlar sayfasında, sol üstte, şirket adının yanında yazar.",
+  "src": [
+   "Setup.swift:654"
+  ]
+ },
+ {
+  "tr": "İndirme, satış, yorum ve kullanım istatistikleri.",
+  "src": [
+   "Setup.swift:614"
+  ]
+ },
+ {
+  "tr": "İndirmelerin {}'i tek ülkeden ({})",
+  "src": [
+   "engine/src/diagnose.ts:275"
+  ]
+ },
+ {
+  "tr": "İngilizce, Almanca, İspanyolca mağaza metni ve ekran görüntüsü ekle; ülke bazlı fiyatı kontrol et.",
+  "src": [
+   "engine/src/diagnose.ts:275"
+  ]
+ },
+ {
+  "tr": "İptal",
+  "src": [
+   "TodayHistory.swift:34"
+  ]
+ },
+ {
+  "tr": "İptal anında kısa anket + indirimli teklif koy; haftalık değer bildirimi gönder.",
+  "src": [
+   "engine/src/diagnose.ts:249"
+  ]
+ },
+ {
+  "tr": "İptal, satış ve uyarı kaydı {} tarihinden beri tutuluyor.",
+  "src": [
+   "TodayHistory.swift:178"
+  ]
+ },
+ {
+  "tr": "İsteklerin {}'i tehdit",
+  "src": [
+   "engine/src/diagnose.ts:146"
+  ]
+ },
+ {
+  "tr": "İstersen daha fazlası",
+  "src": [
+   "Setup.swift:616"
+  ]
+ },
+ {
+  "tr": "İstersen daha fazlasını bağla",
+  "src": [
+   "Setup.swift:744"
+  ]
+ },
+ {
+  "tr": "İsteğe bağlı",
+  "src": [
+   "Setup.swift:1165",
+   "Setup.swift:534",
+   "Setup.swift:747"
+  ]
+ },
+ {
+  "tr": "İsteğe bağlı. Bağlarsan bu ürün için daha fazla veri görürsün.",
+  "src": [
+   "Detail.swift:209"
+  ]
+ },
+ {
+  "tr": "İyi giden",
+  "src": [
+   "Detail.swift:394"
+  ]
+ },
+ {
+  "tr": "İyi gidiyor",
+  "src": [
+   "engine/src/diagnose.ts:292"
+  ]
+ },
+ {
+  "tr": "İşletme Ayarları'nı aç",
+  "src": [
+   "Setup.swift:776"
+  ]
+ },
+ {
+  "tr": "Şimdi yenile",
+  "src": [
+   "App.swift:155",
+   "Views.swift:305"
+  ]
+ },
+ {
+  "tr": "Şu an",
+  "src": [
+   "Detail.swift:137"
+  ]
+ },
+ {
+  "tr": "Şu an hangi ekranda",
+  "src": [
+   "Detail.swift:267"
+  ]
+ },
+ {
+  "tr": "Şu an {} kullanıyorsun. Yeni sürümü indirip kurman yeterli, bağlantıların ve verilerin kalır.",
+  "src": [
+   "Update.swift:124"
+  ]
+ },
+ {
+  "tr": "Şub",
+  "src": [
+   "Loc.swift:105"
+  ]
+ },
+ {
+  "tr": "şimdi",
+  "src": [
+   "Model.swift:320"
+  ]
+ },
+ {
+  "tr": "şu an",
+  "src": [
+   "MetricDetail.swift:135",
+   "engine/src/index.ts:267"
+  ]
+ },
+ {
+  "tr": "şunu denesen olacak gibi",
+  "src": [
+   "engine/src/analyst.ts:10"
+  ]
+ }
+]
